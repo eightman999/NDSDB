@@ -1,0 +1,32 @@
+{
+  "name": "Luigi di Savoia Duca degli Abruzzi級",
+  "id": "USH_ITA_CL_Luigi di Savoia Duca degli Abruzzi_class",
+  "weight": 11760.0,
+  "length": 187.05,
+  "width": 18.9,
+  "power": 104030.0,
+  "speed": 33.6,
+  "range": 4125.0,
+  "cruise_speed": 12.7,
+  "fuel_capacity": 1680.0,
+  "armor_max": 100.0,
+  "armor_min": 30.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 640.0,
+  "country": "ITA",
+  "class": "CL_3",
+  "year": 1937.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "hull_structure": "マキシマムヘビー",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

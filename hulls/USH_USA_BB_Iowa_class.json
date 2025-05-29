@@ -1,0 +1,32 @@
+{
+  "name": "Iowa級",
+  "id": "USH_USA_BB_Iowa_class",
+  "weight": 59331.0,
+  "length": 270.43,
+  "width": 32.97,
+  "power": 221000.0,
+  "speed": 33.0,
+  "range": 15900.0,
+  "cruise_speed": 17.0,
+  "fuel_capacity": 8213.9,
+  "armor_max": 307.0,
+  "armor_min": 307.0,
+  "hull_structure_id": 2.5,
+  "armor_type_id": 2.0,
+  "crew": 2911.0,
+  "country": "USA",
+  "class": "BB_3",
+  "year": 1941.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

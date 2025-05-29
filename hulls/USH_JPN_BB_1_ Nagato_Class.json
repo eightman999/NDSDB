@@ -1,0 +1,32 @@
+{
+  "name": "長門型",
+  "id": "USH_JPN_BB_1_ Nagato_Class",
+  "weight": 33800.0,
+  "length": 215.0,
+  "width": 28.96,
+  "power": 80000.0,
+  "speed": 26.5,
+  "range": 10600.0,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 0,
+  "armor_max": 305.0,
+  "armor_min": 152.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 2.0,
+  "crew": 1333.0,
+  "country": "JPN",
+  "class": "BB_1",
+  "year": 1920.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

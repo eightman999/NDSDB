@@ -1,0 +1,32 @@
+{
+  "name": "戦間期型戦艦",
+  "id": "SSH_BB_0",
+  "weight": 36205.0,
+  "length": 214.97,
+  "width": 28.87,
+  "power": 78597.14,
+  "speed": 25.55,
+  "range": 8482.86,
+  "cruise_speed": 13.43,
+  "fuel_capacity": 4432.67,
+  "armor_max": 306.57,
+  "armor_min": 116.71,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.99,
+  "crew": 1202.86,
+  "country": "NULL",
+  "class": "BB_1",
+  "year": 1918.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "弩級船体",
+  "id": "SSH_DBB",
+  "weight": 23203.17,
+  "length": 158.05,
+  "width": 27.17,
+  "power": 27044.0,
+  "speed": 20.87,
+  "range": 7138.33,
+  "cruise_speed": 11.33,
+  "fuel_capacity": 3518.67,
+  "armor_max": 282.83,
+  "armor_min": 124.83,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.73,
+  "crew": 959.75,
+  "country": "NULL",
+  "class": "DBB",
+  "year": 1911.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

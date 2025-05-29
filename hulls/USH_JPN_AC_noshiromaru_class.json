@@ -1,0 +1,32 @@
+{
+  "name": "能代丸型",
+  "id": "USH_JPN_AC_noshiromaru_class",
+  "weight": 7189.0,
+  "length": 136.0,
+  "width": 19.0,
+  "power": 7490.0,
+  "speed": 18.5,
+  "range": 40000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.0,
+  "crew": 50.0,
+  "country": "JPN",
+  "class": "MC",
+  "year": 1933.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

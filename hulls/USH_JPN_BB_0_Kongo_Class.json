@@ -1,0 +1,32 @@
+{
+  "name": "金剛型",
+  "id": "USH_JPN_BB_0_Kongo_Class",
+  "weight": 29330.0,
+  "length": 214.6,
+  "width": 28.0,
+  "power": 64000.0,
+  "speed": 27.5,
+  "range": 8000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 4500.0,
+  "armor_max": 203.2,
+  "armor_min": 76.2,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 2.0,
+  "crew": 1250.0,
+  "country": "JPN",
+  "class": "BB_0",
+  "year": 1912.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "FBB - 高速戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

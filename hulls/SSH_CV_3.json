@@ -1,0 +1,32 @@
+{
+  "name": "条約型航空母艦 I",
+  "id": "SSH_CV_3",
+  "weight": 15409.33,
+  "length": 221.03,
+  "width": 26.0,
+  "power": 91833.33,
+  "speed": 31.08,
+  "range": 10390.0,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 2789.0,
+  "armor_max": 93.33,
+  "armor_min": 11.33,
+  "hull_structure_id": 1.3,
+  "armor_type_id": 1.4,
+  "crew": 1285.67,
+  "country": "NULL",
+  "class": "CV_3",
+  "year": 1937.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "ヘビー",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

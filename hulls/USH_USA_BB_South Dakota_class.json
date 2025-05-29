@@ -1,0 +1,32 @@
+{
+  "name": "South Dakota級",
+  "id": "USH_USA_BB_South Dakota_class",
+  "weight": 46200.0,
+  "length": 207.37,
+  "width": 32.96,
+  "power": 130000.0,
+  "speed": 27.5,
+  "range": 17000.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 6700.0,
+  "armor_max": 310.0,
+  "armor_min": 310.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 2.0,
+  "crew": 2354.0,
+  "country": "USA",
+  "class": "BB_2",
+  "year": 1942.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

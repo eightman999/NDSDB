@@ -1,0 +1,32 @@
+{
+  "name": "Iroquois級",
+  "id": "USH_CAN_DDH_Iroquois_class",
+  "weight": 4200.0,
+  "length": 129.8,
+  "width": 15.2,
+  "power": 62890.0,
+  "speed": 30.0,
+  "range": 4500.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 245.0,
+  "country": "CAN",
+  "class": "DD_15",
+  "year": 1972.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DDH - ヘリコプター搭載護衛艦",
+  "hull_structure": "マキシマムヘビー",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

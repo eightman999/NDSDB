@@ -1,0 +1,32 @@
+{
+  "name": "戦後型戦艦 V",
+  "id": "SSH_BB_7",
+  "weight": 69939.37,
+  "length": 308.21,
+  "width": 36.12,
+  "power": 271341.27,
+  "speed": 38.88,
+  "range": 7710.4,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 9172.8,
+  "armor_max": 331.0,
+  "armor_min": 17.37,
+  "hull_structure_id": 2.87,
+  "armor_type_id": 2.0,
+  "crew": 2762.81,
+  "country": "NULL",
+  "class": "BB_8",
+  "year": 1955.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

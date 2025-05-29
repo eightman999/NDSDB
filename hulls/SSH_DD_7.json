@@ -1,0 +1,32 @@
+{
+  "name": "条約型駆逐艦 II",
+  "id": "SSH_DD_7",
+  "weight": 1635.0,
+  "length": 106.22,
+  "width": 10.45,
+  "power": 45200.0,
+  "speed": 35.67,
+  "range": 5120.0,
+  "cruise_speed": 16.2,
+  "fuel_capacity": 505.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.31,
+  "armor_type_id": 1.0,
+  "crew": 177.8,
+  "country": "NULL",
+  "class": "DD_7",
+  "year": 1937.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

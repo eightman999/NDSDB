@@ -1,0 +1,32 @@
+{
+  "name": "Admiral級",
+  "id": "USH_ENG_IC_Admiral_class",
+  "weight": 10600.0,
+  "length": 100.6,
+  "width": 20.9,
+  "power": 7500.0,
+  "speed": 16.9,
+  "range": 4800.0,
+  "cruise_speed": 11.0,
+  "fuel_capacity": 1800.0,
+  "armor_max": 457.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 0.85,
+  "armor_type_id": 1.0,
+  "crew": 515.0,
+  "country": "ENG",
+  "class": "IC",
+  "year": 1880.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "IC - 装甲艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

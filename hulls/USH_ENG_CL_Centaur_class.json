@@ -1,0 +1,32 @@
+{
+  "name": "Centaur級",
+  "id": "USH_ENG_CL_Centaur_class",
+  "weight": 4165.0,
+  "length": 135.0,
+  "width": 12.8,
+  "power": 40000.0,
+  "speed": 29.0,
+  "range": 3880.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 824.0,
+  "armor_max": 76.0,
+  "armor_min": 32.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.4,
+  "crew": 336.0,
+  "country": "ENG",
+  "class": "CL_1",
+  "year": 1920.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

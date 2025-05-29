@@ -1,0 +1,32 @@
+{
+  "name": "装甲巡洋艦 III",
+  "id": "SSH_ACR_2",
+  "weight": 12310.67,
+  "length": 148.0,
+  "width": 21.77,
+  "power": 30230.0,
+  "speed": 23.5,
+  "range": 6264.0,
+  "cruise_speed": 11.33,
+  "fuel_capacity": 1876.67,
+  "armor_max": 173.33,
+  "armor_min": 83.33,
+  "hull_structure_id": 1.27,
+  "armor_type_id": 1.37,
+  "crew": 780.0,
+  "country": "NULL",
+  "class": "ACR",
+  "year": 1910.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

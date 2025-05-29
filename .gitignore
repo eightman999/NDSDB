@@ -1,0 +1,159 @@
+# Naval Design System - Generated .gitignore
+# このファイルはNaval Design Systemによって自動生成されました
+# 必要に応じて手動で編集してください
+
+# === Python関連 ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# === PyQt5関連 ===
+*.ui~
+*.qrc~
+
+# === Naval Design System関連 ===
+# キャッシュファイル
+caches/
+*.cache
+*.pkl
+
+# ログファイル
+*.log
+app.log
+debug.log
+
+# 一時ファイル
+*.tmp
+*.temp
+temp/
+temporary/
+
+# バックアップファイル
+*.bak
+*.backup
+*~
+*.orig
+
+# === HOI4 MOD開発関連 ===
+# パーサー自動生成ファイル
+parser/parsetab.py
+parser/*_parsetab.py
+parser/parser.out
+
+# 設定ファイル（機密情報を含む可能性）
+settings_local.json
+config_local.json
+
+# === 画像・メディアファイル ===
+# 生成された画像ファイル
+generated_images/
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tga
+*.dds
+
+# === IDE・エディタ関連 ===
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# === OS関連 ===
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# === Git関連 ===
+*.orig
+*.rej
+
+# === データベース関連 ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === 証明書・鍵ファイル ===
+*.pem
+*.key
+*.crt
+*.p12
+
+# === 圧縮ファイル ===
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# === プロジェクト固有 ===
+# 大容量テストデータ
+test_data_large/
+benchmark_results/
+
+# ユーザー固有の設定
+user_preferences.json
+local_settings.json

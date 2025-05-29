@@ -1,0 +1,32 @@
+{
+  "name": "Renown級",
+  "id": "USH_ENG_BB_Renown_class",
+  "weight": 38945.0,
+  "length": 242.1,
+  "width": 31.3,
+  "power": 130000.0,
+  "speed": 28.3,
+  "range": 9400.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 4600.0,
+  "armor_max": 228.0,
+  "armor_min": 31.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 2.0,
+  "crew": 1260.0,
+  "country": "ENG",
+  "class": "BB_1",
+  "year": 1916.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

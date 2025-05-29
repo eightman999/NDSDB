@@ -1,0 +1,32 @@
+{
+  "name": "Gleaves級",
+  "id": "USH_USA_DD_Gleaves_class",
+  "weight": 1630.0,
+  "length": 106.15,
+  "width": 11.0,
+  "power": 50000.0,
+  "speed": 37.4,
+  "range": 6500.0,
+  "cruise_speed": 12.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.0,
+  "crew": 276.0,
+  "country": "USA",
+  "class": "DD_9",
+  "year": 1940.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

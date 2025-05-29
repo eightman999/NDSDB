@@ -1,0 +1,32 @@
+{
+  "name": "B級_II",
+  "id": "USH_ENG_DD_B_class_II",
+  "weight": 1360.0,
+  "length": 98.45,
+  "width": 9.93,
+  "power": 34000.0,
+  "speed": 34.0,
+  "range": 4170.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 390.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.21,
+  "armor_type_id": 1.0,
+  "crew": 175.0,
+  "country": "ENG",
+  "class": "DD_4",
+  "year": 1931.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

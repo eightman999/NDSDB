@@ -1,0 +1,32 @@
+{
+  "name": "戦後型戦艦 III",
+  "id": "SSH_BB_5",
+  "weight": 65644.17,
+  "length": 294.56,
+  "width": 35.54,
+  "power": 244314.89,
+  "speed": 37.01,
+  "range": 8410.94,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 8555.26,
+  "armor_max": 330.12,
+  "armor_min": 62.46,
+  "hull_structure_id": 2.7,
+  "armor_type_id": 2.0,
+  "crew": 2613.48,
+  "country": "NULL",
+  "class": "BB_6",
+  "year": 1952.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

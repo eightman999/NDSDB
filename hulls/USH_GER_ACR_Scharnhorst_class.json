@@ -1,0 +1,32 @@
+{
+  "name": "Scharnhorst級",
+  "id": "USH_GER_ACR_Scharnhorst_class",
+  "weight": 12985.0,
+  "length": 144.6,
+  "width": 21.6,
+  "power": 30396.0,
+  "speed": 23.6,
+  "range": 5120.0,
+  "cruise_speed": 12.0,
+  "fuel_capacity": 2000.0,
+  "armor_max": 150.0,
+  "armor_min": 80.0,
+  "hull_structure_id": 1.32,
+  "armor_type_id": 1.5,
+  "crew": 764.0,
+  "country": "GER",
+  "class": "ACR",
+  "year": 1909.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

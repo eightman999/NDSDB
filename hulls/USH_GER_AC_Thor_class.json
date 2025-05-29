@@ -1,0 +1,32 @@
+{
+  "name": "Thor型",
+  "id": "USH_GER_AC_Thor_class",
+  "weight": 7000.0,
+  "length": 122.0,
+  "width": 16.7,
+  "power": 6500.0,
+  "speed": 18.0,
+  "range": 40000.0,
+  "cruise_speed": 17.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.0,
+  "crew": 349.0,
+  "country": "GER",
+  "class": "MC",
+  "year": 1938.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

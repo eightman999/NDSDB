@@ -1,0 +1,32 @@
+{
+  "name": "V_W級_I",
+  "id": "USH_ENG_DD_V_W_class_I",
+  "weight": 1100.0,
+  "length": 95.1,
+  "width": 9.0,
+  "power": 27000.0,
+  "speed": 34.0,
+  "range": 2250.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 367.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.21,
+  "armor_type_id": 1.0,
+  "crew": 134.0,
+  "country": "ENG",
+  "class": "DD_3",
+  "year": 1918.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

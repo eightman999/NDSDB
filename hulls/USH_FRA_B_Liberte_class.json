@@ -1,0 +1,32 @@
+{
+  "name": "Liberte級",
+  "id": "USH_FRA_B_Liberte_class",
+  "weight": 14900.0,
+  "length": 135.8,
+  "width": 24.2,
+  "power": 17500.0,
+  "speed": 18.0,
+  "range": 8400.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1800.0,
+  "armor_max": 280.0,
+  "armor_min": 280.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 775.5,
+  "country": "FRA",
+  "class": "PDBB",
+  "year": 1900.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

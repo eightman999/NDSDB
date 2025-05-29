@@ -1,0 +1,32 @@
+{
+  "name": "大泊級",
+  "id": "USH_JPN_AC_oodomari_class",
+  "weight": 2946.0,
+  "length": 64.31,
+  "width": 15.39,
+  "power": 4230.0,
+  "speed": 13.5,
+  "range": 0,
+  "cruise_speed": 0,
+  "fuel_capacity": 508.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.0,
+  "crew": 78.0,
+  "country": "JPN",
+  "class": "TCC",
+  "year": 1921.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

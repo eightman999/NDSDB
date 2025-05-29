@@ -1,0 +1,32 @@
+{
+  "name": "戦後型航空母艦 I",
+  "id": "SSH_CV_8",
+  "weight": 49244.8,
+  "length": 281.85,
+  "width": 47.86,
+  "power": 198800.0,
+  "speed": 32.1,
+  "range": 10888.0,
+  "cruise_speed": 15.8,
+  "fuel_capacity": 6000.0,
+  "armor_max": 134.8,
+  "armor_min": 57.8,
+  "hull_structure_id": 1.9,
+  "armor_type_id": 1.92,
+  "crew": 3274.8,
+  "country": "NULL",
+  "class": "CV_8",
+  "year": 1953.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "=",
+    "SLA": "="
+  }
+}

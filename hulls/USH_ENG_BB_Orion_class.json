@@ -1,0 +1,32 @@
+{
+  "name": "Orion級",
+  "id": "USH_ENG_BB_Orion_class",
+  "weight": 25870.0,
+  "length": 177.0,
+  "width": 27.0,
+  "power": 27000.0,
+  "speed": 21.0,
+  "range": 6730.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 4166.0,
+  "armor_max": 305.0,
+  "armor_min": 203.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.8,
+  "crew": 750.0,
+  "country": "ENG",
+  "class": "BB_0",
+  "year": 1912.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

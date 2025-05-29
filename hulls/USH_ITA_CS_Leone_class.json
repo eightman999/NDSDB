@@ -1,0 +1,32 @@
+{
+  "name": "Leone級",
+  "id": "USH_ITA_CS_Leone_class",
+  "weight": 2289.0,
+  "length": 113.41,
+  "width": 10.36,
+  "power": 42000.0,
+  "speed": 33.0,
+  "range": 2000.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 399.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.5,
+  "crew": 204.0,
+  "country": "ITA",
+  "class": "CS",
+  "year": 1924.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CS - 偵察巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

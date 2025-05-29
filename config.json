@@ -1,0 +1,20 @@
+{
+  "app_name": "Naval Design System",
+  "version": "1.0.0",
+  "data_paths": {
+    "equipment": "/Users/eightman/Library/Application Support/NavalDesignSystem/equipments",
+    "hull": "/Users/eightman/Library/Application Support/NavalDesignSystem/hulls",
+    "design": "/Users/eightman/Library/Application Support/NavalDesignSystem/designs",
+    "fleet": "/Users/eightman/Library/Application Support/NavalDesignSystem/fleets"
+  },
+  "display": {
+    "width": 800,
+    "height": 600,
+    "theme": "Windows95",
+    "language": "ja_JP"
+  },
+  "calculation": {
+    "stats_mode": "add_stats",
+    "formula_version": "1.0"
+  }
+}

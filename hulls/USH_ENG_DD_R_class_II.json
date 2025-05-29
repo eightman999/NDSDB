@@ -1,0 +1,32 @@
+{
+  "name": "R級_II",
+  "id": "USH_ENG_DD_R_class_II",
+  "weight": 1650.0,
+  "length": 109.12,
+  "width": 10.97,
+  "power": 40000.0,
+  "speed": 36.75,
+  "range": 4070.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 615.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.45,
+  "armor_type_id": 1.2,
+  "crew": 225.0,
+  "country": "ENG",
+  "class": "DD_9B",
+  "year": 1942.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "伊勢型",
+  "id": "USH_JPN_BB_1_Ise_Class",
+  "weight": 31260.0,
+  "length": 208.1,
+  "width": 28.65,
+  "power": 45000.0,
+  "speed": 23.0,
+  "range": 9680.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 6011.0,
+  "armor_max": 305.0,
+  "armor_min": 89.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.8,
+  "crew": 1360.0,
+  "country": "JPN",
+  "class": "BB_1",
+  "year": 1917.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

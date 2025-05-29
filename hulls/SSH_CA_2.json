@@ -1,0 +1,32 @@
+{
+  "name": "一等巡洋艦　II",
+  "id": "SSH_CA_2",
+  "weight": 12663.33,
+  "length": 191.31,
+  "width": 20.18,
+  "power": 116538.33,
+  "speed": 33.4,
+  "range": 10925.0,
+  "cruise_speed": 15.33,
+  "fuel_capacity": 2444.5,
+  "armor_max": 100.67,
+  "armor_min": 66.0,
+  "hull_structure_id": 1.95,
+  "armor_type_id": 2.0,
+  "crew": 781.42,
+  "country": "NULL",
+  "class": "CA_2",
+  "year": 1931.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

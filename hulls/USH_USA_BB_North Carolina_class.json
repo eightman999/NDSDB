@@ -1,0 +1,32 @@
+{
+  "name": "North Carolina級",
+  "id": "USH_USA_BB_North Carolina_class",
+  "weight": 46700.0,
+  "length": 222.11,
+  "width": 33.03,
+  "power": 121000.0,
+  "speed": 28.0,
+  "range": 16320.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 7554.0,
+  "armor_max": 305.0,
+  "armor_min": 305.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 2.0,
+  "crew": 1800.0,
+  "country": "USA",
+  "class": "BB_2",
+  "year": 1941.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

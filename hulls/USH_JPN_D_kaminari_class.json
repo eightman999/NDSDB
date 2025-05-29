@@ -1,0 +1,32 @@
+{
+  "name": "雷型",
+  "id": "USH_JPN_D_kaminari_class",
+  "weight": 305.0,
+  "length": 67.26,
+  "width": 6.27,
+  "power": 6000.0,
+  "speed": 31.0,
+  "range": 2407.6,
+  "cruise_speed": 11.0,
+  "fuel_capacity": 100.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 52.0,
+  "country": "JPN",
+  "class": "DD_0",
+  "year": 1895.0,
+  "archetype": "DE - 二等駆逐艦",
+  "type": "D - 水雷駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

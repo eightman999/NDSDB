@@ -1,0 +1,32 @@
+{
+  "name": "Sims級",
+  "id": "USH_USA_DD_Sims_class",
+  "weight": 2465.0,
+  "length": 106.17,
+  "width": 10.97,
+  "power": 50000.0,
+  "speed": 38.7,
+  "range": 6500.0,
+  "cruise_speed": 12.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.39,
+  "armor_type_id": 1.0,
+  "crew": 235.0,
+  "country": "USA",
+  "class": "DD_8",
+  "year": 1939.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

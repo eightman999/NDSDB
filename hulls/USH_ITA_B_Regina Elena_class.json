@@ -1,0 +1,32 @@
+{
+  "name": "Regina Elena級",
+  "id": "USH_ITA_B_Regina Elena_class",
+  "weight": 13804.0,
+  "length": 144.6,
+  "width": 22.4,
+  "power": 20000.0,
+  "speed": 22.0,
+  "range": 9000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2276.0,
+  "armor_max": 250.0,
+  "armor_min": 100.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 2.0,
+  "crew": 700.0,
+  "country": "ITA",
+  "class": "SDBB",
+  "year": 1911.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

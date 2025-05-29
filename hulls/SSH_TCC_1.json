@@ -1,0 +1,32 @@
+{
+  "name": "輸送船改装巡洋艦",
+  "id": "SSH_TCC_1",
+  "weight": 3988.29,
+  "length": 92.0,
+  "width": 14.57,
+  "power": 4697.83,
+  "speed": 15.04,
+  "range": 9535.6,
+  "cruise_speed": 13.04,
+  "fuel_capacity": 628.29,
+  "armor_max": 1.43,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.53,
+  "armor_type_id": 1.0,
+  "crew": 248.0,
+  "country": "NULL",
+  "class": "TCC",
+  "year": 1941.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

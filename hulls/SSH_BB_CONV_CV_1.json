@@ -1,0 +1,32 @@
+{
+  "name": "戦艦改装航空母艦 I",
+  "id": "SSH_BB_CONV_CV_1",
+  "weight": 30553.25,
+  "length": 238.11,
+  "width": 32.62,
+  "power": 110375.0,
+  "speed": 28.16,
+  "range": 8300.0,
+  "cruise_speed": 12.5,
+  "fuel_capacity": 4390.0,
+  "armor_max": 166.75,
+  "armor_min": 31.75,
+  "hull_structure_id": 1.28,
+  "armor_type_id": 1.39,
+  "crew": 1429.0,
+  "country": "NULL",
+  "class": "BCONVCV_1",
+  "year": 1927.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

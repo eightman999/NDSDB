@@ -1,0 +1,32 @@
+{
+  "name": "原子力航空母艦 II",
+  "id": "SSH_CVN_2",
+  "weight": 74086.0,
+  "length": 332.9,
+  "width": 89.4,
+  "power": 260000.0,
+  "speed": 36.0,
+  "range": 0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 0,
+  "armor_max": 24.0,
+  "armor_min": 24.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 3532.0,
+  "country": "USA",
+  "class": "CVN",
+  "year": 1975.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "マキシマムヘビー",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

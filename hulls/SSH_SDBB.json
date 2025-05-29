@@ -1,0 +1,32 @@
+{
+  "name": "準弩級船体",
+  "id": "SSH_SDBB",
+  "weight": 16939.5,
+  "length": 141.33,
+  "width": 24.12,
+  "power": 19486.67,
+  "speed": 19.39,
+  "range": 7553.33,
+  "cruise_speed": 10.5,
+  "fuel_capacity": 2456.83,
+  "armor_max": 235.5,
+  "armor_min": 104.83,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.75,
+  "crew": 818.75,
+  "country": "NULL",
+  "class": "SDBB",
+  "year": 1909.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

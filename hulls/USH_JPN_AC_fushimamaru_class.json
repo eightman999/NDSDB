@@ -1,0 +1,32 @@
+{
+  "name": "浮島丸型",
+  "id": "USH_JPN_AC_fushimamaru_class",
+  "weight": 4730.0,
+  "length": 108.43,
+  "width": 15.7,
+  "power": 4695.0,
+  "speed": 17.4,
+  "range": 0,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 219.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.0,
+  "crew": 89.0,
+  "country": "JPN",
+  "class": "MC",
+  "year": 1936.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

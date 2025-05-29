@@ -1,0 +1,32 @@
+{
+  "name": "Wyoming級",
+  "id": "USH_USA_BB_Wyoming_class",
+  "weight": 30610.0,
+  "length": 168.9,
+  "width": 32.29,
+  "power": 28500.0,
+  "speed": 21.0,
+  "range": 14000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2900.0,
+  "armor_max": 279.0,
+  "armor_min": 127.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 2.0,
+  "crew": 1063.0,
+  "country": "USA",
+  "class": "DBB",
+  "year": 1912.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

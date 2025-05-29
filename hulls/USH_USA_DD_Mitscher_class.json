@@ -1,0 +1,32 @@
+{
+  "name": "Mitscher級",
+  "id": "USH_USA_DD_Mitscher_class",
+  "weight": 3642.0,
+  "length": 149.4,
+  "width": 14.5,
+  "power": 80000.0,
+  "speed": 36.5,
+  "range": 4500.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 740.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.45,
+  "armor_type_id": 1.25,
+  "crew": 350.0,
+  "country": "USA",
+  "class": "DD_11",
+  "year": 1953.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

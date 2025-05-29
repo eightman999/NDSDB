@@ -1,0 +1,32 @@
+{
+  "name": "Bismarck級",
+  "id": "USH_GER_BB_Bismarck_class",
+  "weight": 50300.0,
+  "length": 251.0,
+  "width": 36.0,
+  "power": 150170.0,
+  "speed": 30.8,
+  "range": 8525.0,
+  "cruise_speed": 19.0,
+  "fuel_capacity": 7780.0,
+  "armor_max": 320.0,
+  "armor_min": 145.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 2092.0,
+  "country": "GER",
+  "class": "BB_3",
+  "year": 1940.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "マキシマムヘビー",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

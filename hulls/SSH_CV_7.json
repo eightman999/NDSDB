@@ -1,0 +1,32 @@
+{
+  "name": "WWII型航空母艦　III",
+  "id": "SSH_CV_7",
+  "weight": 35033.33,
+  "length": 275.15,
+  "width": 35.49,
+  "power": 170666.67,
+  "speed": 32.0,
+  "range": 14293.33,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 6416.67,
+  "armor_max": 132.33,
+  "armor_min": 62.67,
+  "hull_structure_id": 1.75,
+  "armor_type_id": 1.8,
+  "crew": 2814.67,
+  "country": "NULL",
+  "class": "CV_7",
+  "year": 1946.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "ウルトラヘビー",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

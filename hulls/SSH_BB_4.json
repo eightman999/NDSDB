@@ -1,0 +1,32 @@
+{
+  "name": "戦後型戦艦 II",
+  "id": "SSH_BB_4",
+  "weight": 61432.85,
+  "length": 281.19,
+  "width": 34.97,
+  "power": 217816.33,
+  "speed": 35.17,
+  "range": 9097.79,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 7949.78,
+  "armor_max": 329.25,
+  "armor_min": 106.66,
+  "hull_structure_id": 2.54,
+  "armor_type_id": 2.0,
+  "crew": 2467.07,
+  "country": "NULL",
+  "class": "BB_5",
+  "year": 1948.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

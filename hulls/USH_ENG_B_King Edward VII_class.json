@@ -1,0 +1,32 @@
+{
+  "name": "King Edward VII級",
+  "id": "USH_ENG_B_King Edward VII_class",
+  "weight": 16350.0,
+  "length": 138.3,
+  "width": 23.7,
+  "power": 18000.0,
+  "speed": 18.5,
+  "range": 3000.0,
+  "cruise_speed": 17.5,
+  "fuel_capacity": 2550.0,
+  "armor_max": 229.0,
+  "armor_min": 229.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 777.0,
+  "country": "ENG",
+  "class": "PDBB",
+  "year": 1903.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

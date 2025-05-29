@@ -1,0 +1,32 @@
+{
+  "name": "Kaiser Friedrich III級",
+  "id": "USH_GER_B_Kaiser Friedrich III_class",
+  "weight": 13208.0,
+  "length": 125.3,
+  "width": 20.4,
+  "power": 13000.0,
+  "speed": 17.5,
+  "range": 3410.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1070.0,
+  "armor_max": 225.0,
+  "armor_min": 100.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 636.5,
+  "country": "GER",
+  "class": "PDBB",
+  "year": 1895.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

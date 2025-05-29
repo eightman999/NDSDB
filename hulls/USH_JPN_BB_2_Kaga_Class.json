@@ -1,0 +1,32 @@
+{
+  "name": "加賀型",
+  "id": "USH_JPN_BB_2_Kaga_Class",
+  "weight": 39930.0,
+  "length": 234.09,
+  "width": 32.37,
+  "power": 91000.0,
+  "speed": 28.3,
+  "range": 14816.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 3600.0,
+  "armor_max": 275.0,
+  "armor_min": 220.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 2.0,
+  "crew": 1370.0,
+  "country": "JPN",
+  "class": "BB_2",
+  "year": 1920.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

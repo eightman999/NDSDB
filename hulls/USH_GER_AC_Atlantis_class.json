@@ -1,0 +1,32 @@
+{
+  "name": "Atlantis型",
+  "id": "USH_GER_AC_Atlantis_class",
+  "weight": 7862.0,
+  "length": 155.0,
+  "width": 18.6,
+  "power": 7600.0,
+  "speed": 17.5,
+  "range": 60000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.0,
+  "crew": 430.0,
+  "country": "GER",
+  "class": "MC",
+  "year": 1937.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

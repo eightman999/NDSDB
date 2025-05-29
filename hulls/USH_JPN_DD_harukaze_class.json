@@ -1,0 +1,32 @@
+{
+  "name": "はるかぜ型",
+  "id": "USH_JPN_DD_harukaze_class",
+  "weight": 1700.0,
+  "length": 106.0,
+  "width": 10.5,
+  "power": 30000.0,
+  "speed": 30.0,
+  "range": 6297.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.5,
+  "armor_type_id": 1.3,
+  "crew": 240.0,
+  "country": "JPN",
+  "class": "DD_12",
+  "year": 1956.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "スーパーヘビー",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

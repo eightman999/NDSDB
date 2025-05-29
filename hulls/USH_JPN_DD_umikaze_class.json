@@ -1,0 +1,32 @@
+{
+  "name": "海風型",
+  "id": "USH_JPN_DD_umikaze_class",
+  "weight": 1030.0,
+  "length": 98.49,
+  "width": 8.5,
+  "power": 27088.0,
+  "speed": 33.03,
+  "range": 5000.4,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 428.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 139.0,
+  "country": "JPN",
+  "class": "DD_2",
+  "year": 1910.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

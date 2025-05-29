@@ -1,0 +1,32 @@
+{
+  "name": "Provence級",
+  "id": "USH_FRA_BB_Provence_class",
+  "weight": 23230.0,
+  "length": 165.81,
+  "width": 26.91,
+  "power": 43000.0,
+  "speed": 23.7,
+  "range": 3500.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2680.0,
+  "armor_max": 270.0,
+  "armor_min": 160.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.8,
+  "crew": 1124.0,
+  "country": "FRA",
+  "class": "BB_0",
+  "year": 1916.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

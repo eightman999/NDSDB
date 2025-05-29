@@ -1,0 +1,32 @@
+{
+  "name": "WWI型戦艦",
+  "id": "SSH_BB",
+  "weight": 28061.43,
+  "length": 189.06,
+  "width": 27.87,
+  "power": 39857.14,
+  "speed": 22.85,
+  "range": 6534.29,
+  "cruise_speed": 11.43,
+  "fuel_capacity": 4059.43,
+  "armor_max": 291.89,
+  "armor_min": 126.89,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.86,
+  "crew": 1053.79,
+  "country": "NULL",
+  "class": "BB_0",
+  "year": 1914.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

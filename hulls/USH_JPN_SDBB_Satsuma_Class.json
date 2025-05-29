@@ -1,0 +1,32 @@
+{
+  "name": "薩摩型",
+  "id": "USH_JPN_SDBB_Satsuma_Class",
+  "weight": 21800.0,
+  "length": 150.0,
+  "width": 25.5,
+  "power": 24000.0,
+  "speed": 20.0,
+  "range": 8000.0,
+  "cruise_speed": 13.0,
+  "fuel_capacity": 3172.0,
+  "armor_max": 229.0,
+  "armor_min": 102.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.5,
+  "crew": 909.0,
+  "country": "JPN",
+  "class": "SDBB",
+  "year": 1908.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

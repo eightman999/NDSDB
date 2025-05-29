@@ -1,0 +1,32 @@
+{
+  "name": "改秋月型",
+  "id": "USH_JPN_DD_kaiakizuki_class",
+  "weight": 3030.0,
+  "length": 134.0,
+  "width": 12.0,
+  "power": 75000.0,
+  "speed": 36.7,
+  "range": 8000.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 1025.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.45,
+  "armor_type_id": 1.25,
+  "crew": 300.0,
+  "country": "JPN",
+  "class": "DD_10",
+  "year": 1944.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

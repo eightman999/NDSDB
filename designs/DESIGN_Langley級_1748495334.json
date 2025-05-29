@@ -1,0 +1,68 @@
+{
+  "design_name": "Langley級",
+  "ship_type": "CV - 航空母艦",
+  "hull_id": "USH_USA_CV_Langley_class",
+  "hull_name": "Langley級",
+  "main_slots": {
+    "PA": "SMH_12",
+    "SA": "SMH_12",
+    "PSA": "SMH_10"
+  },
+  "slot_categories": {
+    "PA": [
+      "small_caliber_gun",
+      "hunger"
+    ],
+    "SA": [
+      "small_caliber_gun",
+      "hunger"
+    ],
+    "PSA": [
+      "small_caliber_gun",
+      "sonar",
+      "large_sonar",
+      "small_radar",
+      "large_radar",
+      "fire_control_system",
+      "hunger",
+      "medium_bulge"
+    ]
+  },
+  "internal_slots": [
+    {
+      "slot_id": "INT1",
+      "slot_number": 1,
+      "categories": [
+        "small_caliber_gun"
+      ],
+      "equipment_id": "SMLG_Mk7_5inch_4"
+    }
+  ],
+  "year": 1920.0,
+  "country": "USA",
+  "calculated_stats": {
+    "build_cost_ic": 0.0,
+    "manpower": 372.0,
+    "reliability": 0.9,
+    "naval_speed": 0.0,
+    "lg_armor_piercing": 17.44049149009697,
+    "lg_attack": 13.2808138752,
+    "hg_armor_piercing": 4.360122872524243,
+    "hg_attack": 3.3202034688,
+    "torpedo_attack": 0.0,
+    "anti_air_attack": 1.4880813875199999,
+    "surface_detection": 0.0,
+    "sub_attack": 0.0,
+    "sub_detection": 0.0,
+    "surface_visibility": 0.0,
+    "sub_visibility": 0.0,
+    "naval_range": 0.0,
+    "port_capacity_usage": 0.0,
+    "search_and_destroy_coordination": 0.0,
+    "convoy_raiding_coordination": 0.0,
+    "carrier_size": 34.0,
+    "equipment_weight": 63000.0,
+    "weight_ratio": 0.0
+  },
+  "id": "DESIGN_Langley級_1748495334"
+}

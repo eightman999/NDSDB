@@ -1,0 +1,32 @@
+{
+  "name": "Manchester級",
+  "id": "USH_ENG_DDG_Manchester_class",
+  "weight": 4775.0,
+  "length": 141.2,
+  "width": 14.9,
+  "power": 65080.0,
+  "speed": 30.0,
+  "range": 4750.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 312.0,
+  "country": "ENG",
+  "class": "DD_15",
+  "year": 1978.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DDG - ミサイル駆逐艦",
+  "hull_structure": "マキシマムヘビー",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "戦後型戦艦 I",
+  "id": "SSH_BB_3",
+  "weight": 57373.76,
+  "length": 268.3,
+  "width": 34.42,
+  "power": 192275.56,
+  "speed": 33.4,
+  "range": 9759.82,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 7366.18,
+  "armor_max": 328.42,
+  "armor_min": 149.27,
+  "hull_structure_id": 2.38,
+  "armor_type_id": 2.0,
+  "crew": 2325.96,
+  "country": "NULL",
+  "class": "BB_4",
+  "year": 1945.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

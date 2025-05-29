@@ -1,0 +1,32 @@
+{
+  "name": "Main級",
+  "id": "USH_USA_ACR_Main_class",
+  "weight": 7180.0,
+  "length": 97.23,
+  "width": 17.37,
+  "power": 9293.0,
+  "speed": 16.45,
+  "range": 6700.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 896.0,
+  "armor_max": 305.0,
+  "armor_min": 178.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 0.85,
+  "crew": 374.0,
+  "country": "USA",
+  "class": "ACR",
+  "year": 1888.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

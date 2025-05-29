@@ -1,0 +1,32 @@
+{
+  "name": "Weapon級",
+  "id": "USH_ENG_DD_Weapon_class",
+  "weight": 1965.0,
+  "length": 111.25,
+  "width": 11.58,
+  "power": 40000.0,
+  "speed": 34.0,
+  "range": 5000.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 630.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.45,
+  "armor_type_id": 1.25,
+  "crew": 255.0,
+  "country": "ENG",
+  "class": "DD_11",
+  "year": 1947.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

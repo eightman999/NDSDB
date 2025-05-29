@@ -1,0 +1,32 @@
+{
+  "name": "Graf Zeppelin級",
+  "id": "USH_GER_CV_Graf Zeppelin_class",
+  "weight": 33550.0,
+  "length": 262.5,
+  "width": 31.5,
+  "power": 200000.0,
+  "speed": 35.0,
+  "range": 8000.0,
+  "cruise_speed": 19.0,
+  "fuel_capacity": 5000.0,
+  "armor_max": 100.0,
+  "armor_min": 20.0,
+  "hull_structure_id": 1.65,
+  "armor_type_id": 1.8,
+  "crew": 1720.0,
+  "country": "GER",
+  "class": "CV_6",
+  "year": 1943.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": "=",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

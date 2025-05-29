@@ -1,0 +1,32 @@
+{
+  "name": "I級_I",
+  "id": "USH_ENG_DD_I_class_I",
+  "weight": 778.0,
+  "length": 75.0,
+  "width": 7.8,
+  "power": 13500.0,
+  "speed": 27.0,
+  "range": 3518.8,
+  "cruise_speed": 13.0,
+  "fuel_capacity": 178.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 78.0,
+  "country": "ENG",
+  "class": "DD_2",
+  "year": 1911.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

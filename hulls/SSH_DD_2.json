@@ -1,0 +1,32 @@
+{
+  "name": "WWI期型駆逐艦 I",
+  "id": "SSH_DD_2",
+  "weight": 952.56,
+  "length": 87.4,
+  "width": 8.56,
+  "power": 19454.22,
+  "speed": 29.46,
+  "range": 4009.33,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 266.67,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.04,
+  "armor_type_id": 1.0,
+  "crew": 95.89,
+  "country": "NULL",
+  "class": "DD_2",
+  "year": 1912.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

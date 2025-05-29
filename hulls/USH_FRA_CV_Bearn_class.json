@@ -1,0 +1,32 @@
+{
+  "name": "Béarn級",
+  "id": "USH_FRA_CV_Bearn_class",
+  "weight": 22146.0,
+  "length": 182.6,
+  "width": 35.2,
+  "power": 37500.0,
+  "speed": 21.5,
+  "range": 7000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2100.0,
+  "armor_max": 83.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.35,
+  "crew": 875.0,
+  "country": "FRA",
+  "class": "BCONVCV_1",
+  "year": 1927.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "軽装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "="
+  }
+}
