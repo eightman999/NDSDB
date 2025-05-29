@@ -1,0 +1,29 @@
+{
+    "theme": "Windows95",
+    "language": "ja",
+    "last_mod_id": 0,
+    "current_mod_path": "/Users/eightman/Documents/Paradox Interactive/Hearts of Iron IV/mod/SSW_mod",
+    "current_mod_name": "The Sun Shining on the World",
+    "window_size": [
+        1899,
+        1129
+    ],
+    "window_position": [
+        49,
+        25
+    ],
+    "first_run": false,
+    "fullscreen": false,
+    "sync_repo_url": "https://github.com/eightman999/NDSDB",
+    "sync_github_token": "ッジブザベメマデムブマぱぱれニニゃネイシぼぺゅケプメサぴクソケオニマぷシブゅゾケバヂヌヨノダろムぴコわイプシムウエズボぴビサれデぺパベオアカバニゃカぴプニナぷスわナケぽゅぺベヤクニメソパ",
+    "git_user_name": "ユジッザブダムヂががが",
+    "git_user_email": "ユジッザブダムヂぱぴぺるッダムジゾぶモヅダ",
+    "auto_sync_enabled": true,
+    "sync_on_exit": true,
+    "auto_pull_enabled": true,
+    "enable_cache": true,
+    "debug_mode": true,
+    "log_level": "WARNING",
+    "max_threads": 6,
+    "memory_limit": 8000
+}
