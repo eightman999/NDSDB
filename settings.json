@@ -22,8 +22,8 @@
     "sync_on_exit": true,
     "auto_pull_enabled": true,
     "enable_cache": true,
-    "debug_mode": false,
-    "log_level": "INFO",
-    "max_threads": 4,
-    "memory_limit": 2048
+    "debug_mode": true,
+    "log_level": "WARNING",
+    "max_threads": 6,
+    "memory_limit": 8000
 }
