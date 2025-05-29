@@ -61,6 +61,10 @@ parser/parser.out
 # 設定ファイル（機密情報を含む可能性）
 settings_local.json
 config_local.json
+config.json
+setting.json
+settings.json
+mods.json
 
 # === 画像・メディアファイル ===
 # 生成された画像ファイル
