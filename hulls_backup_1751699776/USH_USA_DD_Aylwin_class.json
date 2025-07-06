@@ -1,0 +1,32 @@
+{
+  "name": "Aylwin級",
+  "id": "USH_USA_DD_Aylwin_class",
+  "weight": 1036.0,
+  "length": 93.04,
+  "width": 9.25,
+  "power": 16000.0,
+  "speed": 29.6,
+  "range": 4074.4,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 306.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 116.0,
+  "country": "USA",
+  "class": "DD_2",
+  "year": 1913.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

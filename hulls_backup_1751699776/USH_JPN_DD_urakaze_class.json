@@ -1,0 +1,32 @@
+{
+  "name": "浦風型",
+  "id": "USH_JPN_DD_urakaze_class",
+  "weight": 810.0,
+  "length": 86.67,
+  "width": 8.41,
+  "power": 22000.0,
+  "speed": 30.0,
+  "range": 3333.6,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 170.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 115.0,
+  "country": "JPN",
+  "class": "DD_2",
+  "year": 1915.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

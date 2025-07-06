@@ -1,0 +1,32 @@
+{
+  "name": "D級_I",
+  "id": "USH_ENG_D_D_class_I",
+  "weight": 355.0,
+  "length": 66.45,
+  "width": 6.55,
+  "power": 5700.0,
+  "speed": 30.0,
+  "range": 2407.6,
+  "cruise_speed": 11.0,
+  "fuel_capacity": 95.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 60.0,
+  "country": "ENG",
+  "class": "DD_0",
+  "year": 1895.0,
+  "archetype": "DE - 二等駆逐艦",
+  "type": "D - 水雷駆逐艦",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

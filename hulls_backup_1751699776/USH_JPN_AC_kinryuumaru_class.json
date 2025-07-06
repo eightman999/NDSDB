@@ -1,0 +1,32 @@
+{
+  "name": "金龍丸型",
+  "id": "USH_JPN_AC_kinryuumaru_class",
+  "weight": 9309.0,
+  "length": 146.9,
+  "width": 19.0,
+  "power": 10430.0,
+  "speed": 20.0,
+  "range": 35000.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 2840.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.5,
+  "armor_type_id": 1.0,
+  "crew": 51.0,
+  "country": "JPN",
+  "class": "MC",
+  "year": 1933.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

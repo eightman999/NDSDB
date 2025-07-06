@@ -1,0 +1,32 @@
+{
+  "name": "あやなみ型",
+  "id": "USH_JPN_DDE_ayanami_class",
+  "weight": 1700.0,
+  "length": 109.0,
+  "width": 10.7,
+  "power": 17500.0,
+  "speed": 32.0,
+  "range": 5660.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.5,
+  "armor_type_id": 1.3,
+  "crew": 220.0,
+  "country": "JPN",
+  "class": "DD_12",
+  "year": 1958.0,
+  "archetype": "DE - 二等駆逐艦",
+  "type": "DDE - 対潜護衛駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

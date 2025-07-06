@@ -1,0 +1,32 @@
+{
+  "name": "初春型",
+  "id": "USH_JPN_DD_shoshun_class",
+  "weight": 1400.0,
+  "length": 109.5,
+  "width": 10.0,
+  "power": 42000.0,
+  "speed": 36.5,
+  "range": 4000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 458.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.3,
+  "armor_type_id": 1.0,
+  "crew": 215.0,
+  "country": "JPN",
+  "class": "DD_6",
+  "year": 1934.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

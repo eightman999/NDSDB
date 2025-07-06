@@ -1,0 +1,32 @@
+{
+  "name": "平甲板型駆逐艦",
+  "id": "SSH_DD_0",
+  "weight": 369.13,
+  "length": 68.61,
+  "width": 6.65,
+  "power": 5959.38,
+  "speed": 29.68,
+  "range": 2470.11,
+  "cruise_speed": 11.13,
+  "fuel_capacity": 85.63,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 60.88,
+  "country": "NULL",
+  "class": "DD_0",
+  "year": 1898.0,
+  "archetype": "DE - 二等駆逐艦",
+  "type": "D - 水雷駆逐艦",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

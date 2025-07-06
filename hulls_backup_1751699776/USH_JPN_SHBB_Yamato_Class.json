@@ -1,0 +1,32 @@
+{
+  "name": "大和型",
+  "id": "USH_JPN_SHBB_Yamato_Class",
+  "weight": 68200.0,
+  "length": 263.4,
+  "width": 38.9,
+  "power": 150000.0,
+  "speed": 27.0,
+  "range": 7200.0,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 6300.0,
+  "armor_max": 410.0,
+  "armor_min": 410.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 3332.0,
+  "country": "JPN",
+  "class": "SHBB",
+  "year": 1940.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "SB - 超戦艦",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

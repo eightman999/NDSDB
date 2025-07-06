@@ -1,0 +1,32 @@
+{
+  "name": "二等巡洋艦　III",
+  "id": "SSH_CL_3",
+  "weight": 11100.0,
+  "length": 184.29,
+  "width": 18.83,
+  "power": 93010.0,
+  "speed": 32.87,
+  "range": 8708.33,
+  "cruise_speed": 13.23,
+  "fuel_capacity": 1815.0,
+  "armor_max": 113.67,
+  "armor_min": 65.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 776.0,
+  "country": "NULL",
+  "class": "CL_3",
+  "year": 1937.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

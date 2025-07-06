@@ -1,0 +1,32 @@
+{
+  "name": "利根型",
+  "id": "USH_JPN_CA_tone_class",
+  "weight": 13320.0,
+  "length": 201.6,
+  "width": 19.4,
+  "power": 152000.0,
+  "speed": 35.55,
+  "range": 8000.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 2690.0,
+  "armor_max": 145.0,
+  "armor_min": 50.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 869.0,
+  "country": "JPN",
+  "class": "CA_3",
+  "year": 1938.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

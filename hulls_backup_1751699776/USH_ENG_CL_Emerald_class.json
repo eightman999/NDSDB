@@ -1,0 +1,32 @@
+{
+  "name": "Emerald級",
+  "id": "USH_ENG_CL_Emerald_class",
+  "weight": 9435.0,
+  "length": 173.7,
+  "width": 16.6,
+  "power": 80000.0,
+  "speed": 33.0,
+  "range": 3850.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 1746.0,
+  "armor_max": 76.0,
+  "armor_min": 38.0,
+  "hull_structure_id": 1.5,
+  "armor_type_id": 1.5,
+  "crew": 572.0,
+  "country": "ENG",
+  "class": "CL_1",
+  "year": 1920.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

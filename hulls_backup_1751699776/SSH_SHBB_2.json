@@ -1,0 +1,32 @@
+{
+  "name": "超重戦艦 II",
+  "id": "SSH_SHBB_2",
+  "weight": 71197.07,
+  "length": 277.8,
+  "width": 38.06,
+  "power": 171159.26,
+  "speed": 28.2,
+  "range": 9336.67,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 7182.14,
+  "armor_max": 422.33,
+  "armor_min": 405.05,
+  "hull_structure_id": 3.0,
+  "armor_type_id": 2.0,
+  "crew": 3211.13,
+  "country": "NULL",
+  "class": "SHBB",
+  "year": 1943.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "SB - 超戦艦",
+  "hull_structure": "WWI型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

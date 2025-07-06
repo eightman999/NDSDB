@@ -1,0 +1,32 @@
+{
+  "name": "Abercrombie級",
+  "id": "USH_ENG_BM_Abercrombie_class",
+  "weight": 6150.0,
+  "length": 98.0,
+  "width": 27.4,
+  "power": 2300.0,
+  "speed": 7.0,
+  "range": 2480.0,
+  "cruise_speed": 6.0,
+  "fuel_capacity": 615.0,
+  "armor_max": 101.6,
+  "armor_min": 101.6,
+  "hull_structure_id": 1.5,
+  "armor_type_id": 1.4,
+  "crew": 198.0,
+  "country": "ENG",
+  "class": "MT",
+  "year": 1915.0,
+  "archetype": "FAV - 一等補助艦",
+  "type": "BM - モニター艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

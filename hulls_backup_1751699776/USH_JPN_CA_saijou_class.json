@@ -1,0 +1,32 @@
+{
+  "name": "最上型",
+  "id": "USH_JPN_CA_saijou_class",
+  "weight": 11200.0,
+  "length": 200.6,
+  "width": 20.6,
+  "power": 152000.0,
+  "speed": 35.0,
+  "range": 8000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 2280.0,
+  "armor_max": 100.0,
+  "armor_min": 100.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 909.0,
+  "country": "JPN",
+  "class": "CA_2",
+  "year": 1935.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

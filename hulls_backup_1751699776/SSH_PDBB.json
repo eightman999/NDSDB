@@ -1,0 +1,32 @@
+{
+  "name": "前弩級船体I",
+  "id": "SSH_PDBB",
+  "weight": 12946.5,
+  "length": 121.78,
+  "width": 21.5,
+  "power": 12519.0,
+  "speed": 17.16,
+  "range": 3807.5,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1004.25,
+  "armor_max": 318.5,
+  "armor_min": 227.5,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.13,
+  "crew": 687.88,
+  "country": "NULL",
+  "class": "PDBB",
+  "year": 1884.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "中世型",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

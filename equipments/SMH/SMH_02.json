@@ -3,8 +3,8 @@
   "common": {
     "名前": "飛行甲板&格納庫 2機",
     "ID": "SMH_02",
-    "重量": 2500.0,
-    "人員": 18,
+    "重量": 4000.0,
+    "人員": 20,
     "開発年": 1920,
     "開発国": "NULL",
     "必要資源_鉄": 0,
@@ -15,7 +15,7 @@
   },
   "specific": {
     "is_large": "yes",
-    "max_capacity": 0
+    "max_capacity": 2
   },
   "stats": {
     "add_stats": {
@@ -38,9 +38,9 @@
       "port_capacity_usage": 0.0,
       "search_and_destroy_coordination": 0.0,
       "convoy_raiding_coordination": 0.0,
-      "carrier_size": 0.0,
+      "carrier_size": 2.0,
       "equipment_weight": 0.0,
-      "weight_ratio": 2.0
+      "weight_ratio": 0.0
     },
     "multiply_stats": {
       "build_cost_ic": 0.0,

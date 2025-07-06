@@ -1,0 +1,32 @@
+{
+  "name": "原子力航空母艦 I",
+  "id": "SSH_CVN_1",
+  "weight": 75700.0,
+  "length": 342.3,
+  "width": 77.7,
+  "power": 280000.0,
+  "speed": 36.0,
+  "range": 0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 0,
+  "armor_max": 76.0,
+  "armor_min": 24.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 4600.0,
+  "country": "USA",
+  "class": "CVN",
+  "year": 1961.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Royal Sovereign級",
+  "id": "USH_ENG_B_Royal Sovereign_class",
+  "weight": 14150.0,
+  "length": 125.12,
+  "width": 22.86,
+  "power": 11000.0,
+  "speed": 17.5,
+  "range": 4720.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1110.0,
+  "armor_max": 457.0,
+  "armor_min": 356.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 712.0,
+  "country": "ENG",
+  "class": "PDBB",
+  "year": 1890.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

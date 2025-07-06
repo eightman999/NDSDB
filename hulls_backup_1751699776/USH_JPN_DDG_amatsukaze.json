@@ -1,0 +1,32 @@
+{
+  "name": "あまつかぜ",
+  "id": "USH_JPN_DDG_amatsukaze",
+  "weight": 3050.0,
+  "length": 131.0,
+  "width": 13.4,
+  "power": 30000.0,
+  "speed": 33.0,
+  "range": 5500.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.75,
+  "armor_type_id": 1.5,
+  "crew": 290.0,
+  "country": "JPN",
+  "class": "DD_14",
+  "year": 1965.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DDG - ミサイル駆逐艦",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}
