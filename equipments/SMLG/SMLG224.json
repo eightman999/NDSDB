@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "QF 6-pounder 10 cwt gun",
+    "ID": "SMLG224",
+    "重量": 1250,
+    "人員": 4,
+    "開発年": 1917,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 2.7,
+    "initial_velocity_mps": 727.0,
+    "rounds_per_minute": 20,
+    "caliber_cm": 5.7,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

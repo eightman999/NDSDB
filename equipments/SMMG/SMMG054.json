@@ -1,0 +1,26 @@
+{
+  "equipment_type": "中口径砲",
+  "common": {
+    "名前": "BL 6-inch Mk XXII naval gun",
+    "ID": "SMMG054",
+    "重量": 9500,
+    "人員": 7,
+    "開発年": 1942,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 50.0,
+    "initial_velocity_mps": 840.0,
+    "rounds_per_minute": 8,
+    "caliber_cm": 15.2,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

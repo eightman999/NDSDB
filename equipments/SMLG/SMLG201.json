@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "BL 4-inch Mk IX naval gun",
+    "ID": "SMLG201",
+    "重量": 3300,
+    "人員": 5,
+    "開発年": 1916,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 14.0,
+    "initial_velocity_mps": 726.0,
+    "rounds_per_minute": 8,
+    "caliber_cm": 10.2,
+    "barrel_length": 45,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

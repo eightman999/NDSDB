@@ -1,0 +1,26 @@
+{
+  "equipment_type": "大口径砲",
+  "common": {
+    "名前": "BL 13.5-inch Mk I – IV naval gun",
+    "ID": "SMHG024",
+    "重量": 67000,
+    "人員": 18,
+    "開発年": 1888,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 567.0,
+    "initial_velocity_mps": 620.0,
+    "rounds_per_minute": 1,
+    "caliber_cm": 34.3,
+    "barrel_length": 30,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

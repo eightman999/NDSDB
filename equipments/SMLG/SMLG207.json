@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "EOC 4-inch 50 caliber",
+    "ID": "SMLG207",
+    "重量": 3500,
+    "人員": 5,
+    "開発年": 1898,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 14.0,
+    "initial_velocity_mps": 850.0,
+    "rounds_per_minute": 8,
+    "caliber_cm": 10.2,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

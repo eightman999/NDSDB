@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "QF 4-inch naval gun Mk XXIII",
+    "ID": "SMLG216",
+    "重量": 2300,
+    "人員": 7,
+    "開発年": 1950,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 16.0,
+    "initial_velocity_mps": 820.0,
+    "rounds_per_minute": 20,
+    "caliber_cm": 10.2,
+    "barrel_length": 45,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

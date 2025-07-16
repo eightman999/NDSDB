@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "QF 3-pounder Vickers",
+    "ID": "SMLG210",
+    "重量": 1500,
+    "人員": 3,
+    "開発年": 1905,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 1.5,
+    "initial_velocity_mps": 720.0,
+    "rounds_per_minute": 25,
+    "caliber_cm": 4.7,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

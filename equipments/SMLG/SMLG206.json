@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "Bofors 40 mm Automatic Gun L/70",
+    "ID": "SMLG206",
+    "重量": 2500,
+    "人員": 5,
+    "開発年": 1950,
+    "開発国": "Sweden",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 0.96,
+    "initial_velocity_mps": 1020.0,
+    "rounds_per_minute": 240,
+    "caliber_cm": 4.0,
+    "barrel_length": 70,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}
