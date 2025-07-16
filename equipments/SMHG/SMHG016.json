@@ -1,0 +1,26 @@
+{
+  "equipment_type": "大口径砲",
+  "common": {
+    "名前": "BL 10-inch Mk I – IV naval gun",
+    "ID": "SMHG016",
+    "重量": 29000,
+    "人員": 14,
+    "開発年": 1880,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 225.0,
+    "initial_velocity_mps": 700.0,
+    "rounds_per_minute": 2,
+    "caliber_cm": 25.4,
+    "barrel_length": 40,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

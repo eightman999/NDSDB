@@ -1,0 +1,26 @@
+{
+  "equipment_type": "大口径砲",
+  "common": {
+    "名前": "BL 12-inch Mk IX naval gun",
+    "ID": "SMHG020",
+    "重量": 52000,
+    "人員": 16,
+    "開発年": 1910,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 386.0,
+    "initial_velocity_mps": 859.0,
+    "rounds_per_minute": 2,
+    "caliber_cm": 30.5,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

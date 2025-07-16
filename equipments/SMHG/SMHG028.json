@@ -1,0 +1,26 @@
+{
+  "equipment_type": "大口径砲",
+  "common": {
+    "名前": "BL 14-inch Mk VII naval gun",
+    "ID": "SMHG028",
+    "重量": 78000,
+    "人員": 18,
+    "開発年": 1938,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 721.0,
+    "initial_velocity_mps": 750.0,
+    "rounds_per_minute": 2,
+    "caliber_cm": 35.6,
+    "barrel_length": 45,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

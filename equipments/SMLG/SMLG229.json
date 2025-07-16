@@ -1,0 +1,26 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "QF 14-pounder Maxim-Nordenfelt naval gun",
+    "ID": "SMLG229",
+    "重量": 1000,
+    "人員": 5,
+    "開発年": 1890,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 6.3,
+    "initial_velocity_mps": 720.0,
+    "rounds_per_minute": 15,
+    "caliber_cm": 8.9,
+    "barrel_length": 40,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}

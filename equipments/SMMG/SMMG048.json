@@ -1,0 +1,26 @@
+{
+  "equipment_type": "中口径砲",
+  "common": {
+    "名前": "BL 6-inch 80-pounder gun",
+    "ID": "SMMG048",
+    "重量": 5000,
+    "人員": 7,
+    "開発年": 1880,
+    "開発国": "United Kingdom",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 36.0,
+    "initial_velocity_mps": 575.0,
+    "rounds_per_minute": 4,
+    "caliber_cm": 15.2,
+    "barrel_length": 30,
+    "barrel_count": 1,
+    "max_elevation": "",
+    "turret_count": 1
+  }
+}
