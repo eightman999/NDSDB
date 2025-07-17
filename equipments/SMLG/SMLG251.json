@@ -1,0 +1,28 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "Ordnance QF 4 inch gun Mk V",
+    "ID": "SMLG251",
+    "重量": 2220.0,
+    "人員": 59,
+    "開発年": 1914.0,
+    "開発国": "ENG",
+    "必要資源_鉄": 1,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 716.0,
+    "rounds_per_minute": 15.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 1,
+    "max_elevation": "80",
+    "turret_count": 1,
+    "shell_weight_kg": 14.1,
+    "caliber_cm": 10.16
+  }
+}

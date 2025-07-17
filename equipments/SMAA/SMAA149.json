@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "5.2 cm/55 (2.05\") SK L/55",
+    "ID": "SMAA149",
+    "重量": 3900.0,
+    "人員": 44,
+    "開発年": 1905.0,
+    "開発国": "GER",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 850.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 55.0,
+    "barrel_count": 1,
+    "max_elevation": "+20/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 10.0,
+    "caliber_cm": 5.2
+  }
+}

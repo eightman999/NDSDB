@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "25 mm/87 Mark 38 Machine Gun System (Mark 96)",
+    "ID": "SMAA121",
+    "重量": 0.0,
+    "人員": 1,
+    "開発年": 1987.0,
+    "開発国": "USA",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 184.0,
+    "initial_velocity_mps": 1100.0,
+    "rounds_per_minute": 175.0,
+    "caliber_mm": 2.5,
+    "barrel_length": 87.0,
+    "barrel_count": 1,
+    "max_elevation": "+55/-20",
+    "turret_count": 1,
+    "shell_weight_kg": 0,
+    "caliber_cm": 0
+  }
+}

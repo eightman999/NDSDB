@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 6-pounder Nordenfelt",
     "ID": "SMLG223",
     "重量": 900,
@@ -8,12 +9,22 @@
     "開発年": 1885,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "QF 4.5-inch Mk V naval gun",
+    "ID": "SMLG223",
+    "重量": 1000.0,
+    "人員": 69,
+    "開発年": 1939.0,
+    "開発国": "ENG",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 2.7,
     "initial_velocity_mps": 563.0,
     "rounds_per_minute": 20,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 746.0,
+    "rounds_per_minute": 24.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 1,
+    "max_elevation": "80",
+    "turret_count": 1,
+    "shell_weight_kg": 24.9,
+    "caliber_cm": 11.303
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

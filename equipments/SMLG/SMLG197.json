@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "4.5-inch Mark 8 naval gun",
     "ID": "SMLG197",
     "重量": 0,
@@ -8,12 +9,22 @@
     "開発年": 1972,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "5\"/38 (12.7 cm) Mark 12 (Single Open Base Ring Mark 30 Mod 1)",
+    "ID": "SMLG197",
+    "重量": 15195.0,
+    "人員": 110,
+    "開発年": 1932.0,
+    "開発国": "USA",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.0,
     "initial_velocity_mps": 0.0,
     "rounds_per_minute": 0,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 792.0,
+    "rounds_per_minute": 20.0,
+    "caliber_mm": 0,
+    "barrel_length": 38.0,
+    "barrel_count": 1,
+    "max_elevation": "+85/-15",
+    "turret_count": 1,
+    "shell_weight_kg": 25.0,
+    "caliber_cm": 12.7
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

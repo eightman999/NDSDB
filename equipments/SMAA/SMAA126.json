@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "3.7 cm SK C/30 連装砲",
+    "ID": "SMAA126",
+    "重量": 243.0,
+    "人員": 20,
+    "開発年": 1930.0,
+    "開発国": "GER",
+    "必要資源_鉄": 1,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 740.0,
+    "initial_velocity_mps": 1000.0,
+    "rounds_per_minute": 30.0,
+    "caliber_mm": 3.7,
+    "barrel_length": 83.0,
+    "barrel_count": 2,
+    "max_elevation": "90",
+    "turret_count": 1,
+    "shell_weight_kg": 0,
+    "caliber_cm": 0
+  }
+}

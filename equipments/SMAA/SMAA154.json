@@ -1,0 +1,26 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "57 mm/60 (2.25\") Model 1951 (Twin Mount)",
+    "ID": "SMAA154",
+    "重量": 17000,
+    "人員": 74,
+    "開発年": 1951,
+    "開発国": "FRA",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 2600,
+    "initial_velocity_mps": 865,
+    "rounds_per_minute": 120,
+    "caliber_mm": 57,
+    "barrel_length": 60,
+    "barrel_count": 2,
+    "max_elevation": "+94/-10",
+    "turret_count": 1
+  }
+}

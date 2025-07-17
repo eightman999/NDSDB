@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 4-inch Mk VIII naval gun",
     "ID": "SMLG200",
     "重量": 3000,
@@ -8,12 +9,22 @@
     "開発年": 1915,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "5\"/38 (12.7 cm) Mark 12 (Single Enclosed Base Ring Mark 30 Mod 65 (Stern Mount))",
+    "ID": "SMLG200",
+    "重量": 18552.0,
+    "人員": 118,
+    "開発年": 1932.0,
+    "開発国": "USA",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 14.0,
     "initial_velocity_mps": 720.0,
     "rounds_per_minute": 6,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 792.0,
+    "rounds_per_minute": 20.0,
+    "caliber_mm": 0,
+    "barrel_length": 38.0,
+    "barrel_count": 1,
+    "max_elevation": "+85/-15",
+    "turret_count": 1,
+    "shell_weight_kg": 25.0,
+    "caliber_cm": 12.7
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 6-inch Mk I–III naval gun",
     "ID": "SMMG062",
     "重量": 7500,
     "人員": 9,
     "開発年": 1895,
     "開発国": "United Kingdom",
+=======
+    "名前": "24 cm L/40 C94",
+    "ID": "SMMG062",
+    "重量": 121000.0,
+    "人員": 0,
+    "開発年": 1894,
+    "開発国": "AUS",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 45.0,
     "initial_velocity_mps": 700.0,
     "rounds_per_minute": 5,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 215.0,
+    "initial_velocity_mps": 660.0,
+    "rounds_per_minute": 3.5,
+    "caliber_cm": 24.0,
+    "barrel_length": 40.0,
+    "barrel_count": 1,
+    "max_elevation": "29",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

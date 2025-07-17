@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 4-inch Mk VII naval gun",
     "ID": "SMLG199",
     "重量": 2600,
     "人員": 5,
     "開発年": 1908,
     "開発国": "United Kingdom",
+=======
+    "名前": "5.1\"/50 (13 cm) QF Mark I",
+    "ID": "SMLG199",
+    "重量": 49000.0,
+    "人員": 183,
+    "開発年": 1931.0,
+    "開発国": "ENG",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 14.0,
     "initial_velocity_mps": 710.0,
     "rounds_per_minute": 6,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 850.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 50.0,
+    "barrel_count": 1,
+    "max_elevation": "+40/-0",
+    "turret_count": 1,
+    "shell_weight_kg": 28.1,
+    "caliber_cm": 13.0
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

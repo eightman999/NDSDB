@@ -1,0 +1,22 @@
+{
+  "equipment_type": "魚雷",
+  "common": {
+    "名前": "21 inch Mark I Long",
+    "ID": "SMTP042",
+    "重量": 1270,
+    "人員": 0,
+    "開発年": 1908,
+    "開発国": "ENG",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "explosive_weight_kg": 102.0,
+    "max_range_m": 9900,
+    "speed_kts": 30.0,
+    "diameter_cm": 53.3
+  }
+}

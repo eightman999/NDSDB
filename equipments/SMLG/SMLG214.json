@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 4-inch naval gun Mk XVI",
     "ID": "SMLG214",
     "重量": 2000,
@@ -8,12 +9,22 @@
     "開発年": 1933,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "12-pdr [3\"/40 (7.62 cm)] 12cwt QF Marks I, II and V (HA/LA IX Mount)",
+    "ID": "SMLG214",
+    "重量": 2489.0,
+    "人員": 52,
+    "開発年": 1893.0,
+    "開発国": "GBR",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 15.9,
     "initial_velocity_mps": 811.0,
     "rounds_per_minute": 15,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 681.0,
+    "rounds_per_minute": 15.0,
+    "caliber_mm": 0,
+    "barrel_length": 40.0,
+    "barrel_count": 1,
+    "max_elevation": "+70/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 5.87,
+    "caliber_cm": 7.62
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

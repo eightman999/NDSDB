@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 6-inch Mk XI naval gun",
     "ID": "SMMG051",
     "重量": 9000,
     "人員": 7,
     "開発年": 1904,
     "開発国": "United Kingdom",
+=======
+    "名前": "24 cm/40 (9.4\") SK L/40 (Drh.L. C/97 Twin Turret)",
+    "ID": "SMMG051",
+    "重量": 220000.0,
+    "人員": 654.0,
+    "開発年": 1894,
+    "開発国": "GER",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 45.0,
     "initial_velocity_mps": 850.0,
     "rounds_per_minute": 5,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 140.0,
+    "initial_velocity_mps": 690.0,
+    "rounds_per_minute": 0.67,
+    "caliber_cm": 23.8,
+    "barrel_length": 40.0,
+    "barrel_count": 2,
+    "max_elevation": "+30/-5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

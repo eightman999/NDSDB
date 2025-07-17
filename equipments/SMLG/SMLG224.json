@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 6-pounder 10 cwt gun",
     "ID": "SMLG224",
     "重量": 1250,
     "人員": 4,
     "開発年": 1917,
     "開発国": "United Kingdom",
+=======
+    "名前": "12 cm/50 (4.7\") Bofors M1924 series",
+    "ID": "SMLG224",
+    "重量": 8700.0,
+    "人員": 80,
+    "開発年": 1924.0,
+    "開発国": "SWE",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 2.7,
     "initial_velocity_mps": 727.0,
     "rounds_per_minute": 20,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 900.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 50.0,
+    "barrel_count": 1,
+    "max_elevation": "+30/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 24.0,
+    "caliber_cm": 12.0
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

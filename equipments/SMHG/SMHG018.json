@@ -1,12 +1,21 @@
 {
   "equipment_type": "大口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 12-inch Mk I – II naval gun",
     "ID": "SMHG018",
     "重量": 45000,
     "人員": 16,
     "開発年": 1886,
     "開発国": "United Kingdom",
+=======
+    "名前": "40.6 cm/52 (16\") SK C/34 (Coastal Artillery)",
+    "ID": "SMHG018",
+    "重量": 159900,
+    "人員": 602.0,
+    "開発年": 1934,
+    "開発国": "GER",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 386.0,
     "initial_velocity_mps": 695.0,
     "rounds_per_minute": 2,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 600.0,
+    "initial_velocity_mps": 1050.0,
+    "rounds_per_minute": 2.0,
+    "caliber_cm": 40.6,
+    "barrel_length": 52.0,
+    "barrel_count": 1,
+    "max_elevation": "+55/-5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

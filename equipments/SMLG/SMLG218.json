@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 4.7-inch Mk VIII naval gun",
     "ID": "SMLG218",
     "重量": 3500,
@@ -8,12 +9,22 @@
     "開発年": 1918,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "4.5\"/45 (11.4 cm) QF Mark I, III and IV (RP10 Mark II** BD Twin Mount)",
+    "ID": "SMLG218",
+    "重量": 43811.0,
+    "人員": 164,
+    "開発年": 1935.0,
+    "開発国": "GBR",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 23.0,
     "initial_velocity_mps": 814.0,
     "rounds_per_minute": 8,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 716.0,
+    "rounds_per_minute": 12.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "+80/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 24.95,
+    "caliber_cm": 11.4
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

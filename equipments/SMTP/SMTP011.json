@@ -1,0 +1,22 @@
+{
+  "equipment_type": "魚雷",
+  "common": {
+    "名前": "18 inch Whitehead",
+    "ID": "SMTP011",
+    "重量": 383,
+    "人員": 0,
+    "開発年": 1888,
+    "開発国": "ENG",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "explosive_weight_kg": 53.5,
+    "max_range_m": 730,
+    "speed_kts": 26.5,
+    "diameter_cm": 45.0
+  }
+}

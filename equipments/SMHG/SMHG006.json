@@ -1,0 +1,26 @@
+{
+  "equipment_type": "大口径砲",
+  "common": {
+    "名前": "12\"/45 Elswick Pattern L",
+    "ID": "SMHG006",
+    "重量": 460000,
+    "人員": 0,
+    "開発年": 1907,
+    "開発国": "BRA",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 386.0,
+    "initial_velocity_mps": 853.0,
+    "rounds_per_minute": 1.5,
+    "caliber_cm": 30.5,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "17",
+    "turret_count": 1
+  }
+}

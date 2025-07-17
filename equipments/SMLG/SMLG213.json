@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 4-inch naval gun Mk V",
     "ID": "SMLG213",
     "重量": 2400,
@@ -8,12 +9,22 @@
     "開発年": 1900,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "12-pdr [3\"/50 (7.62 cm)] 18cwt QF Mark I",
+    "ID": "SMLG213",
+    "重量": 1740.0,
+    "人員": 48,
+    "開発年": 1900.0,
+    "開発国": "GBR",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 14.0,
     "initial_velocity_mps": 720.0,
     "rounds_per_minute": 8,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 792.0,
+    "rounds_per_minute": 15.0,
+    "caliber_mm": 0,
+    "barrel_length": 50.0,
+    "barrel_count": 1,
+    "max_elevation": "+20/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 5.67,
+    "caliber_cm": 7.62
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

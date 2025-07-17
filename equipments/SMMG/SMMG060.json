@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 8-inch Mk VIII naval gun",
     "ID": "SMMG060",
     "重量": 16000,
     "人員": 8,
     "開発年": 1924,
     "開発国": "United Kingdom",
+=======
+    "名前": "24.5cm/40",
+    "ID": "SMMG060",
+    "重量": 50000.0,
+    "人員": 0,
+    "開発年": 1898,
+    "開発国": "ITA",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 116.0,
     "initial_velocity_mps": 855.0,
     "rounds_per_minute": 5,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 227.0,
+    "initial_velocity_mps": 700.0,
+    "rounds_per_minute": 2.0,
+    "caliber_cm": 24.5,
+    "barrel_length": 40.0,
+    "barrel_count": 1,
+    "max_elevation": "25",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

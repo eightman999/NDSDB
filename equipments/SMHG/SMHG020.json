@@ -1,12 +1,21 @@
 {
   "equipment_type": "大口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 12-inch Mk IX naval gun",
     "ID": "SMHG020",
     "重量": 52000,
     "人員": 16,
     "開発年": 1910,
     "開発国": "United Kingdom",
+=======
+    "名前": "12.6\"/38 (32 cm) 41st Year Type",
+    "ID": "SMHG020",
+    "重量": 67000,
+    "人員": 293.0,
+    "開発年": 1908,
+    "開発国": "Japan",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 386.0,
     "initial_velocity_mps": 859.0,
     "rounds_per_minute": 2,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 449.0,
+    "initial_velocity_mps": 703.0,
+    "rounds_per_minute": 0.2,
+    "caliber_cm": 32.0,
+    "barrel_length": 38.0,
+    "barrel_count": 1,
+    "max_elevation": "+10.5/-4",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

@@ -1,6 +1,7 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "15 cm/45 41st Year Type",
     "ID": "SMMG042",
     "重量": 0,
@@ -8,12 +9,22 @@
     "開発年": 1908,
     "開発国": "Japan",
     "必要資源_鉄": 0,
+=======
+    "名前": "254 mm/45 (10\") Bofors",
+    "ID": "SMMG042",
+    "重量": 256000.0,
+    "人員": 765.0,
+    "開発年": 1929,
+    "開発国": "FIN",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.0,
     "initial_velocity_mps": 0.0,
     "rounds_per_minute": 0,
@@ -24,3 +35,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 225.0,
+    "initial_velocity_mps": 850.0,
+    "rounds_per_minute": 3.0,
+    "caliber_cm": 25.4,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "+45/-10",
+    "turret_count": 2
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

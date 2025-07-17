@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 6-inch 80-pounder gun",
     "ID": "SMMG048",
     "重量": 5000,
     "人員": 7,
     "開発年": 1880,
     "開発国": "United Kingdom",
+=======
+    "名前": "28 cm/35 (11\") Model 1883",
+    "ID": "SMMG048",
+    "重量": 32500.0,
+    "人員": 211.0,
+    "開発年": 1883,
+    "開発国": "Spain",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 36.0,
     "initial_velocity_mps": 575.0,
     "rounds_per_minute": 4,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 266.0,
+    "initial_velocity_mps": 620.0,
+    "rounds_per_minute": 1.0,
+    "caliber_cm": 28.0,
+    "barrel_length": 35.0,
+    "barrel_count": 1,
+    "max_elevation": "+15/-5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

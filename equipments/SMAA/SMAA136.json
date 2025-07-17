@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "6-pdr / 8cwt [2.244\"/40 (57 mm)] QF Marks I and II",
+    "ID": "SMAA136",
+    "重量": 385.0,
+    "人員": 44,
+    "開発年": 1883.0,
+    "開発国": "ENG",
+    "必要資源_鉄": 1,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 2720.0,
+    "initial_velocity_mps": 538.0,
+    "rounds_per_minute": 20.0,
+    "caliber_mm": 5.7,
+    "barrel_length": 40.0,
+    "barrel_count": 1,
+    "max_elevation": "90",
+    "turret_count": 1,
+    "shell_weight_kg": 0,
+    "caliber_cm": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "75 mm/50 (2.9\") Pattern 1892 (AA Pattern 1926 Mount)",
+    "ID": "SMAA157",
+    "重量": 0,
+    "人員": 33,
+    "開発年": 1926,
+    "開発国": "RUS",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 5730,
+    "initial_velocity_mps": 747,
+    "rounds_per_minute": 15,
+    "caliber_mm": 75,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "+75/-?",
+    "turret_count": 1
+  }
+}

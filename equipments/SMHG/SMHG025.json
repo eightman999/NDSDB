@@ -1,12 +1,21 @@
 {
   "equipment_type": "大口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 13.5-inch Mk V naval gun",
     "ID": "SMHG025",
     "重量": 80000,
     "人員": 18,
     "開発年": 1912,
     "開発国": "United Kingdom",
+=======
+    "名前": "38.1 cm/45",
+    "ID": "SMHG025",
+    "重量": 223000,
+    "人員": 0,
+    "開発年": 1912,
+    "開発国": "SPR",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 635.0,
     "initial_velocity_mps": 830.0,
     "rounds_per_minute": 2,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 885.0,
+    "initial_velocity_mps": 762.0,
+    "rounds_per_minute": 2.0,
+    "caliber_cm": 38.1,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "45",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

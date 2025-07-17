@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 5-inch gun Mk I – V",
     "ID": "SMLG203",
     "重量": 4000,
@@ -8,12 +9,22 @@
     "開発年": 1895,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "10.5 cm/40 (4.1\") SK L/40 (MPL C/00)",
+    "ID": "SMLG203",
+    "重量": 1555.0,
+    "人員": 67,
+    "開発年": 1898.0,
+    "開発国": "GER",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 25.0,
     "initial_velocity_mps": 850.0,
     "rounds_per_minute": 6,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 690.0,
+    "rounds_per_minute": 15.0,
+    "caliber_mm": 0,
+    "barrel_length": 40.0,
+    "barrel_count": 1,
+    "max_elevation": "+30/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 17.4,
+    "caliber_cm": 10.5
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

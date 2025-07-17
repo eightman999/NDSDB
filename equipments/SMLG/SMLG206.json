@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "Bofors 40 mm Automatic Gun L/70",
     "ID": "SMLG206",
     "重量": 2500,
@@ -8,12 +9,22 @@
     "開発年": 1950,
     "開発国": "Sweden",
     "必要資源_鉄": 0,
+=======
+    "名前": "5\"/38 (12.7 cm) Mark 12 (Twin Enclosed Base Ring Mark 28 Mod 0)",
+    "ID": "SMLG206",
+    "重量": 70894.0,
+    "人員": 250,
+    "開発年": 1932.0,
+    "開発国": "USA",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.96,
     "initial_velocity_mps": 1020.0,
     "rounds_per_minute": 240,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 792.0,
+    "rounds_per_minute": 20.0,
+    "caliber_mm": 0,
+    "barrel_length": 38.0,
+    "barrel_count": 2,
+    "max_elevation": "+85/-15",
+    "turret_count": 1,
+    "shell_weight_kg": 25.0,
+    "caliber_cm": 12.7
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

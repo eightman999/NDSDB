@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 12-pounder 8 cwt gun",
     "ID": "SMLG225",
     "重量": 814,
     "人員": 4,
     "開発年": 1894,
     "開発国": "United Kingdom",
+=======
+    "名前": "4\"/60 (10.2 cm) Pattern 1911 (Obukhovski Factory Single Mount)",
+    "ID": "SMLG225",
+    "重量": 6147.0,
+    "人員": 70,
+    "開発年": 1911.0,
+    "開発国": "RUS",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 5.7,
     "initial_velocity_mps": 719.0,
     "rounds_per_minute": 15,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 823.0,
+    "rounds_per_minute": 12.0,
+    "caliber_mm": 0,
+    "barrel_length": 60.0,
+    "barrel_count": 1,
+    "max_elevation": "+20/-6",
+    "turret_count": 1,
+    "shell_weight_kg": 17.5,
+    "caliber_cm": 10.2
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

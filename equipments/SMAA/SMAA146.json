@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "47 mm/1 (1.85\") Hotchkiss gun (Single Mount)",
+    "ID": "SMAA146",
+    "重量": 235.5,
+    "人員": 39,
+    "開発年": 1883.0,
+    "開発国": "RUS",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 701.0,
+    "rounds_per_minute": 20.0,
+    "caliber_mm": 0,
+    "barrel_length": 43.5,
+    "barrel_count": 1,
+    "max_elevation": "+25/-23",
+    "turret_count": 1,
+    "shell_weight_kg": 3.0,
+    "caliber_cm": 4.7
+  }
+}

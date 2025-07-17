@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 12-pounder 18 cwt naval gun",
     "ID": "SMLG227",
     "重量": 1372,
@@ -8,12 +9,22 @@
     "開発年": 1897,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "Ordnance QF 4 inch gun Mk XXI (Twin Mk XIX)",
+    "ID": "SMLG227",
+    "重量": 4078.0,
+    "人員": 57,
+    "開発年": 1936.0,
+    "開発国": "ENG",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 5.7,
     "initial_velocity_mps": 719.0,
     "rounds_per_minute": 20,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 811.0,
+    "rounds_per_minute": 15.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "80",
+    "turret_count": 1,
+    "shell_weight_kg": 15.88,
+    "caliber_cm": 10.16
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

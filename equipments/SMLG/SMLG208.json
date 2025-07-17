@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 2-pounder naval gun",
     "ID": "SMLG208",
     "重量": 1800,
@@ -8,12 +9,22 @@
     "開発年": 1930,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "4\"/27 (10.2 cm) Mark II, III, IV, V, VI (VBII Mount)",
+    "ID": "SMLG208",
+    "重量": 1320.0,
+    "人員": 61,
+    "開発年": 1890.0,
+    "開発国": "GBR",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.9,
     "initial_velocity_mps": 700.0,
     "rounds_per_minute": 100,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 579.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 27.0,
+    "barrel_count": 1,
+    "max_elevation": "+18.5/-2.8",
+    "turret_count": 1,
+    "shell_weight_kg": 11.3,
+    "caliber_cm": 10.2
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

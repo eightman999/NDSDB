@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "40CT cannon",
     "ID": "SMLG196",
     "重量": 0,
     "人員": 0,
     "開発年": 1993,
     "開発国": "United Kingdom",
+=======
+    "名前": "5\"/62 (12.7 cm) QF Mark N1 (Twin Mount)",
+    "ID": "SMLG196",
+    "重量": 0.0,
+    "人員": 137,
+    "開発年": 1951.0,
+    "開発国": "ENG",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.0,
     "initial_velocity_mps": 0.0,
     "rounds_per_minute": 0,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 1036.0,
+    "rounds_per_minute": 60.0,
+    "caliber_mm": 0,
+    "barrel_length": 62.0,
+    "barrel_count": 2,
+    "max_elevation": "+90/-0",
+    "turret_count": 1,
+    "shell_weight_kg": 31.8,
+    "caliber_cm": 12.7
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

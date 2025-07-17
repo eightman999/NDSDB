@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 7.5-inch Mk II – V naval gun",
     "ID": "SMMG057",
     "重量": 13000,
     "人員": 8,
     "開発年": 1905,
     "開発国": "United Kingdom",
+=======
+    "名前": "9.2\"/47 (23.4 cm) Mark X (Single Mount)",
+    "ID": "SMMG057",
+    "重量": 28670.0,
+    "人員": 195.0,
+    "開発年": 1895,
+    "開発国": "ENG",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 91.0,
     "initial_velocity_mps": 780.0,
     "rounds_per_minute": 4,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 172.4,
+    "initial_velocity_mps": 847.0,
+    "rounds_per_minute": 3.0,
+    "caliber_cm": 23.4,
+    "barrel_length": 47.0,
+    "barrel_count": 1,
+    "max_elevation": "+15/-5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

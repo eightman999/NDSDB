@@ -1,0 +1,27 @@
+{
+  "equipment_type": "機雷",
+  "common": {
+    "名前": "M Mark II",
+    "ID": "SMMN034",
+    "重量": 798,
+    "人員": 0,
+    "開発年": 1940,
+    "開発国": "GBR",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "explosive_weight_kg": 454,
+    "total_weight_kg": 798,
+    "diameter_cm": 0,
+    "length_cm": 0,
+    "trigger_type": "CR magnetic",
+    "mooring_wire_length_m": 0,
+    "depth_range_m": "9-110",
+    "operational_lifetime_days": 0,
+    "shelf_life_years": 0
+  }
+}

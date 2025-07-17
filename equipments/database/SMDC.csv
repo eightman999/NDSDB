@@ -1,0 +1,38 @@
+ID,名前,重量,人員,開発年,開発国,必要資源_鉄,必要資源_クロム,必要資源_アルミ,必要資源_タングステン,必要資源_ゴム,shell_weight_kg,explosive_weight_kg,range_m
+SMDC001,八八式爆雷,238,3,1930,JAPAN,1,0,0,0,0,90,148,70
+SMDC002,九五式爆雷,160,2,1935,JAPAN,1,0,0,0,0,60,100,0
+SMDC003,二式爆雷,160,2,1943,JAPAN,1,0,0,0,0,60,100,0
+SMDC004,二式爆雷 改一,210,3,1943,JAPAN,1,0,0,0,0,60,150,0
+SMDC005,二式爆雷 改二,170,2,1943,JAPAN,1,0,0,0,0,60,110,0
+SMDC006,三式爆雷一型,180,2,1943,JAPAN,1,0,0,0,0,80,100,0
+SMDC007,三式爆雷 改一,230,3,1943,JAPAN,1,0,0,0,0,80,150,0
+SMDC008,三式爆雷 改二,190,2,1943,JAPAN,1,0,0,0,0,80,110,0
+SMDC009,"Depth Charge Type A and B",22.7,1,1914,GBR,0,0,0,0,0,0,14.7,6
+SMDC010,"Depth Charge Type C and C*",40.8,1,1914,GBR,0,0,0,0,0,0,15.9,0
+SMDC011,"Depth Charge Type D",191.0,1,1915,GBR,0,0,0,0,0,0,136.0,21
+SMDC012,"Depth Charge Type D*",109.0,1,1915,GBR,0,0,0,0,0,0,54.0,0
+SMDC013,"Depth Charge Type D Mark III",191.0,1,1916,GBR,0,0,0,0,0,0,136.0,4.3
+SMDC014,"Depth Charge Type E",0.0,1,1914,GBR,0,0,0,0,0,0,45.4,21
+SMDC015,"Depth Charge Type F",0.0,1,1915,GBR,0,0,0,0,0,0,31.8,4
+SMDC016,"Depth Charge Egerton",90.7,1,1914,GBR,0,0,0,0,0,0,68.0,0
+SMDC017,"Depth Charge Marks I and II Cruiser Mine",521.6,1,1914,GBR,0,0,0,0,0,0,111.0,0
+SMDC018,"Depth Charge Mark VII",191.0,1,1939,GBR,0,0,0,0,0,0,132.0,0
+SMDC019,"Depth Charge Mark VII Heavy",191.0,1,1940,GBR,0,0,0,0,0,0,130.0,7.9
+SMDC020,"Depth Charge Mark VII Airborne DC",204.0,1,1941,GBR,0,0,0,0,0,0,132.0,7.6
+SMDC021,"Depth Charge Mark VIII Airborne DC",111.6,1,1942,GBR,0,0,0,0,0,0,77.0,7.6
+SMDC022,"Depth Charge Mark IX",191.0,1,0,GBR,0,0,0,0,0,0,136.0,0
+SMDC023,"Depth Charge Type L",191.0,1,0,GBR,0,0,0,0,0,0,113.0,0
+SMDC024,"Depth Charge Mark X, X* and X**",1383.0,1,1942,GBR,0,0,0,0,0,0,907.0,0
+SMDC025,"Depth Charge Mark XI Airborne DC",111.6,1,1942,GBR,0,0,0,0,0,0,77.0,7.6
+SMDC026,"Depth Charge Mark XII",0.0,1,0,GBR,0,0,0,0,0,0,25.0,0
+SMDC027,"Depth Charge Mark XIII",0.0,1,0,GBR,0,0,0,0,0,0,56.0,0
+SMDC028,"Depth Charge Mark XIV Airborne DC",111.6,1,0,GBR,0,0,0,0,0,0,77.0,5.8
+SMDC029,"Depth Charge Mark XV Airborne DC",111.6,1,0,GBR,0,0,0,0,0,0,77.0,0
+SMDC030,"WBA C/15",91.0,1,1915,GER,0,0,0,0,0,0,50.0,0
+SMDC031,"WBB C/24",200.0,1,1925,GER,0,0,0,0,0,0,132.0,0
+SMDC032,"WBD",180.0,1,0,GER,0,0,0,0,0,0,125.0,0
+SMDC033,"WB DM II",160.0,1,0,GER,0,0,0,0,0,0,100.0,0
+SMDC034,"WBF",139.0,1,0,GER,0,0,0,0,0,0,60.0,0
+SMDC035,"WBG",180.0,1,0,GER,0,0,0,0,0,0,60.0,0
+SMDC036,"WBH",240.0,1,0,GER,0,0,0,0,0,0,60.0,0
+SMDC037,"LWB II",190.0,1,0,GER,0,0,0,0,0,0,0,0

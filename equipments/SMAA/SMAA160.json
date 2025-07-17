@@ -1,0 +1,26 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "75 mm/50 (2.9\") Pattern 1892 (OSZ mod 1916 AA Mount)",
+    "ID": "SMAA160",
+    "重量": 2000,
+    "人員": 42,
+    "開発年": 1916,
+    "開発国": "RUS",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 5730,
+    "initial_velocity_mps": 747,
+    "rounds_per_minute": 15,
+    "caliber_mm": 75,
+    "barrel_length": 50,
+    "barrel_count": 1,
+    "max_elevation": "+70/-?",
+    "turret_count": 1
+  }
+}

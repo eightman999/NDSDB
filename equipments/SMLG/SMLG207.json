@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "EOC 4-inch 50 caliber",
     "ID": "SMLG207",
     "重量": 3500,
@@ -8,12 +9,22 @@
     "開発年": 1898,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "4\"/45 (10.2 cm) QF Mark XVI (RP 51 Mark XIX conversion)",
+    "ID": "SMLG207",
+    "重量": 16816.0,
+    "人員": 92,
+    "開発年": 1934.0,
+    "開発国": "GBR",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 14.0,
     "initial_velocity_mps": 850.0,
     "rounds_per_minute": 8,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 811.0,
+    "rounds_per_minute": 18.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "+80/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 15.88,
+    "caliber_cm": 10.2
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

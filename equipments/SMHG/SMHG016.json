@@ -1,6 +1,7 @@
 {
   "equipment_type": "大口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 10-inch Mk I – IV naval gun",
     "ID": "SMHG016",
     "重量": 29000,
@@ -24,3 +25,28 @@
     "turret_count": 1
   }
 }
+=======
+    "名前": "40.6 cm SK C/34連装砲",
+    "ID": "SMHG016",
+    "重量": 13630,
+    "人員": 280.0,
+    "開発年": 1934,
+    "開発国": "GER",
+    "必要資源_鉄": 2,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 1,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 1030.0,
+    "initial_velocity_mps": 810.0,
+    "rounds_per_minute": 2.0,
+    "caliber_cm": 40.6,
+    "barrel_length": 52.0,
+    "barrel_count": 2,
+    "max_elevation": "48度",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

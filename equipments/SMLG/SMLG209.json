@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 3-pounder Hotchkiss",
     "ID": "SMLG209",
     "重量": 1100,
     "人員": 3,
     "開発年": 1886,
     "開発国": "United Kingdom",
+=======
+    "名前": "4.7\"/45 (12 cm) QF Mark IX (CPXXII Single Mount)",
+    "ID": "SMLG209",
+    "重量": 11770.0,
+    "人員": 85,
+    "開発年": 1928.0,
+    "開発国": "ENG",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 1.5,
     "initial_velocity_mps": 570.0,
     "rounds_per_minute": 20,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 808.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 1,
+    "max_elevation": "+55/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 22.68,
+    "caliber_cm": 12.0
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 3-pounder Vickers",
     "ID": "SMLG210",
     "重量": 1500,
@@ -8,12 +9,22 @@
     "開発年": 1905,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "10.5 cm/65 (4.1\") SK C/33 (French Dop. L. C/37)",
+    "ID": "SMLG210",
+    "重量": 26425.0,
+    "人員": 116,
+    "開発年": 1933.0,
+    "開発国": "FRA",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 1.5,
     "initial_velocity_mps": 720.0,
     "rounds_per_minute": 25,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 900.0,
+    "rounds_per_minute": 16.0,
+    "caliber_mm": 0,
+    "barrel_length": 65.0,
+    "barrel_count": 2,
+    "max_elevation": "+80/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 15.1,
+    "caliber_cm": 10.5
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

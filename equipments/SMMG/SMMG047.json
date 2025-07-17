@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 5.5-inch Mk I naval gun",
     "ID": "SMMG047",
     "重量": 7500,
     "人員": 7,
     "開発年": 1918,
     "開発国": "United Kingdom",
+=======
+    "名前": "24 cm/42 (9.45\") Guillen Model 1896",
+    "ID": "SMMG047",
+    "重量": 23000.0,
+    "人員": 166.0,
+    "開発年": 1894,
+    "開発国": "Spain",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 36.0,
     "initial_velocity_mps": 800.0,
     "rounds_per_minute": 5,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 202.0,
+    "initial_velocity_mps": 700.0,
+    "rounds_per_minute": 1.0,
+    "caliber_cm": 24.0,
+    "barrel_length": 42.0,
+    "barrel_count": 1,
+    "max_elevation": "+20/-5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 6-inch Mark N5 gun",
     "ID": "SMMG064",
     "重量": 8000,
     "人員": 9,
     "開発年": 1945,
     "開発国": "United Kingdom",
+=======
+    "名前": "23.8cm/35",
+    "ID": "SMMG064",
+    "重量": 45000.0,
+    "人員": 0,
+    "開発年": 1850,
+    "開発国": "GER",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 45.0,
     "initial_velocity_mps": 864.0,
     "rounds_per_minute": 10,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 140.0,
+    "initial_velocity_mps": 650.0,
+    "rounds_per_minute": 2.0,
+    "caliber_cm": 23.8,
+    "barrel_length": 35.0,
+    "barrel_count": 1,
+    "max_elevation": "29",
+    "turret_count": 4
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

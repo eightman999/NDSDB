@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "40 mm/70 (1.57\") SAK-40/L70-315",
+    "ID": "SMAA125",
+    "重量": 2870.0,
+    "人員": 48,
+    "開発年": 1948.0,
+    "開発国": "SWE",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 2500.0,
+    "initial_velocity_mps": 1005.0,
+    "rounds_per_minute": 240.0,
+    "caliber_mm": 4.0,
+    "barrel_length": 70.0,
+    "barrel_count": 1,
+    "max_elevation": "+90/-10",
+    "turret_count": 1,
+    "shell_weight_kg": 0,
+    "caliber_cm": 0
+  }
+}

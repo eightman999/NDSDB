@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "5.25\"/50 (13.4 cm) QF Mark I (Twin Mount)",
     "ID": "SMMG041",
     "重量": 81000,
     "人員": 20,
     "開発年": 1938,
     "開発国": "GBR",
+=======
+    "名前": "15 cm/45 (5.9\") SK L/45 (MPL C/13 Single Pedestal Mount)",
+    "ID": "SMMG041",
+    "重量": 17950.0,
+    "人員": 119.0,
+    "開発年": 1906,
+    "開発国": "GER",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 36.3,
     "initial_velocity_mps": 792,
     "rounds_per_minute": 7,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 45.3,
+    "initial_velocity_mps": 835.0,
+    "rounds_per_minute": 5.0,
+    "caliber_cm": 15.0,
+    "barrel_length": 45.0,
+    "barrel_count": 1,
+    "max_elevation": "+19/-8.5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

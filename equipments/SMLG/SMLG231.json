@@ -1,0 +1,28 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "12 cm/50 (4.7\") Bofors Mark 4",
+    "ID": "SMLG231",
+    "重量": 10000.0,
+    "人員": 83,
+    "開発年": 1924.0,
+    "開発国": "SWE",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 900.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 50.0,
+    "barrel_count": 1,
+    "max_elevation": "+30/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 24.0,
+    "caliber_cm": 12.0
+  }
+}

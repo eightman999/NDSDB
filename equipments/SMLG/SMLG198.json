@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 4-inch Mk I–VI naval gun",
     "ID": "SMLG198",
     "重量": 2500,
     "人員": 5,
     "開発年": 1887,
     "開発国": "United Kingdom",
+=======
+    "名前": "4.7\"/45 (12 cm) BL Mark II (Single open mount)",
+    "ID": "SMLG198",
+    "重量": 3188.0,
+    "人員": 53,
+    "開発年": 1940.0,
+    "開発国": "ENG",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 14.0,
     "initial_velocity_mps": 700.0,
     "rounds_per_minute": 6,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 814.0,
+    "rounds_per_minute": 5.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 1,
+    "max_elevation": "+30/-9.5",
+    "turret_count": 1,
+    "shell_weight_kg": 22.68,
+    "caliber_cm": 12.0
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

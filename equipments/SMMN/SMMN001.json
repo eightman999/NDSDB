@@ -1,0 +1,27 @@
+{
+  "equipment_type": "機雷",
+  "common": {
+    "名前": "Navy Spherical Mine Marks I and II",
+    "ID": "SMMN001",
+    "重量": 408,
+    "人員": 0,
+    "開発年": 1906,
+    "開発国": "GBR",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "explosive_weight_kg": 113,
+    "total_weight_kg": 408,
+    "diameter_cm": 96.5,
+    "length_cm": 0,
+    "trigger_type": "Automatic anchor and arm-operated firing mechanism (moored mine)",
+    "mooring_wire_length_m": 0,
+    "depth_range_m": "",
+    "operational_lifetime_days": 0,
+    "shelf_life_years": 0
+  }
+}

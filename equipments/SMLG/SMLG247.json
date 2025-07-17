@@ -1,0 +1,28 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "130 mm/55 (5.1\") Pattern 1913 (Monitor Udarny Single Turret)",
+    "ID": "SMLG247",
+    "重量": 17160.0,
+    "人員": 111,
+    "開発年": 1912.0,
+    "開発国": "RUS",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 823.0,
+    "rounds_per_minute": 8.0,
+    "caliber_mm": 0,
+    "barrel_length": 55.0,
+    "barrel_count": 1,
+    "max_elevation": "+40/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 36.86,
+    "caliber_cm": 13.0
+  }
+}

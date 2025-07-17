@@ -1,0 +1,28 @@
+{
+  "equipment_type": "小口径砲",
+  "common": {
+    "名前": "QF 4.5-inch Mk III naval gun",
+    "ID": "SMLG235",
+    "重量": 1000.0,
+    "人員": 55,
+    "開発年": 1939.0,
+    "開発国": "ENG",
+    "必要資源_鉄": 1,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 746.0,
+    "rounds_per_minute": 12.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 2,
+    "max_elevation": "80",
+    "turret_count": 1,
+    "shell_weight_kg": 24.9,
+    "caliber_cm": 11.303
+  }
+}

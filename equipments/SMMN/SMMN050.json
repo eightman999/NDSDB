@@ -1,0 +1,27 @@
+{
+  "equipment_type": "機雷",
+  "common": {
+    "名前": "A Type S",
+    "ID": "SMMN050",
+    "重量": 454,
+    "人員": 0,
+    "開発年": 1953,
+    "開発国": "GBR",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "explosive_weight_kg": 0,
+    "total_weight_kg": 454,
+    "diameter_cm": 0,
+    "length_cm": 0,
+    "trigger_type": "Acoustic-magnetic-pressure",
+    "mooring_wire_length_m": 0,
+    "depth_range_m": "",
+    "operational_lifetime_days": 0,
+    "shelf_life_years": 0
+  }
+}

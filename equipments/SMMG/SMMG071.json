@@ -1,0 +1,26 @@
+{
+  "equipment_type": "中口径砲",
+  "common": {
+    "名前": "24cm/50",
+    "ID": "SMMG071",
+    "重量": 260000.0,
+    "人員": 0,
+    "開発年": 1902,
+    "開発国": "FRA",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 221.0,
+    "initial_velocity_mps": 800.0,
+    "rounds_per_minute": 3.0,
+    "caliber_cm": 24.0,
+    "barrel_length": 50.0,
+    "barrel_count": 2,
+    "max_elevation": "18",
+    "turret_count": 1
+  }
+}

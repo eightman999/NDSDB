@@ -1,0 +1,26 @@
+{
+  "equipment_type": "超大口径砲",
+  "common": {
+    "名前": "12.6\"/38 (32 cm) 41st Year Type",
+    "ID": "SMSHG011",
+    "重量": 67000,
+    "人員": 293,
+    "開発年": 1908,
+    "開発国": "Japan",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_kg": 449.0,
+    "initial_velocity_mps": 703,
+    "rounds_per_minute": 0.2,
+    "caliber_cm": 32.0,
+    "barrel_length": 38,
+    "barrel_count": 1,
+    "max_elevation": "+10.5/-4",
+    "turret_count": 1
+  }
+}

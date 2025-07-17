@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "Bofors 40 mm L/60 gun",
     "ID": "SMLG205",
     "重量": 2000,
@@ -8,12 +9,22 @@
     "開発年": 1936,
     "開発国": "Sweden",
     "必要資源_鉄": 0,
+=======
+    "名前": "4\"/45 (10.2 cm) QF Mark V (HA Mark IV Mount)",
+    "ID": "SMLG205",
+    "重量": 7100.0,
+    "人員": 69,
+    "開発年": 1913.0,
+    "開発国": "GBR",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.9,
     "initial_velocity_mps": 850.0,
     "rounds_per_minute": 120,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 728.0,
+    "rounds_per_minute": 12.0,
+    "caliber_mm": 0,
+    "barrel_length": 45.0,
+    "barrel_count": 1,
+    "max_elevation": "+80/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 14.06,
+    "caliber_cm": 10.2
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

@@ -1,6 +1,7 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "BL 4-inch Mk IX naval gun",
     "ID": "SMLG201",
     "重量": 3300,
@@ -8,12 +9,22 @@
     "開発年": 1916,
     "開発国": "United Kingdom",
     "必要資源_鉄": 0,
+=======
+    "名前": "8.8 cm/35 (3.46\") SK L/35",
+    "ID": "SMLG201",
+    "重量": 700.0,
+    "人員": 49,
+    "開発年": 1900.0,
+    "開発国": "GER",
+    "必要資源_鉄": 1,
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 14.0,
     "initial_velocity_mps": 726.0,
     "rounds_per_minute": 8,
@@ -24,3 +35,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 690.0,
+    "rounds_per_minute": 12.0,
+    "caliber_mm": 0,
+    "barrel_length": 35.0,
+    "barrel_count": 1,
+    "max_elevation": "+25/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 7.0,
+    "caliber_cm": 8.8
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

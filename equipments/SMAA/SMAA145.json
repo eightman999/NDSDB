@@ -1,0 +1,28 @@
+{
+  "equipment_type": "対空砲",
+  "common": {
+    "名前": "5 cm/40 (1.97\") Tbts KL/40",
+    "ID": "SMAA145",
+    "重量": 284.0,
+    "人員": 26,
+    "開発年": 1913.0,
+    "開発国": "GER",
+    "必要資源_鉄": 0,
+    "必要資源_クロム": 0,
+    "必要資源_アルミ": 0,
+    "必要資源_タングステン": 0,
+    "必要資源_ゴム": 0
+  },
+  "specific": {
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 656.0,
+    "rounds_per_minute": 10.0,
+    "caliber_mm": 0,
+    "barrel_length": 40.0,
+    "barrel_count": 1,
+    "max_elevation": "+20/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 0.74,
+    "caliber_cm": 5.0
+  }
+}

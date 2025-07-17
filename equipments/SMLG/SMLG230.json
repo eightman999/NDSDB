@@ -1,12 +1,21 @@
 {
   "equipment_type": "小口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "QF 14-pounder naval gun Mk I & II",
     "ID": "SMLG230",
     "重量": 1100,
     "人員": 5,
     "開発年": 1895,
     "開発国": "United Kingdom",
+=======
+    "名前": "130 mm/55 (5.1\") Pattern 1913 (Single Mount)",
+    "ID": "SMLG230",
+    "重量": 17160.0,
+    "人員": 111,
+    "開発年": 1912.0,
+    "開発国": "RUS",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 6.3,
     "initial_velocity_mps": 770.0,
     "rounds_per_minute": 15,
@@ -24,3 +34,17 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_g": 0,
+    "initial_velocity_mps": 823.0,
+    "rounds_per_minute": 8.0,
+    "caliber_mm": 0,
+    "barrel_length": 55.0,
+    "barrel_count": 1,
+    "max_elevation": "+30/-5",
+    "turret_count": 1,
+    "shell_weight_kg": 36.86,
+    "caliber_cm": 13.0
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

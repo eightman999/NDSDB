@@ -1,12 +1,21 @@
 {
   "equipment_type": "中口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "32-pounder gun",
     "ID": "SMMG044",
     "重量": 0,
     "人員": 0,
     "開発年": 1830,
     "開発国": "United Kingdom",
+=======
+    "名前": "9.2\"/31.5 (23.4 cm) Mark III (VCPI Single Mount)",
+    "ID": "SMMG044",
+    "重量": 23000.0,
+    "人員": 168.0,
+    "開発年": 1880,
+    "開発国": "ENG",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.0,
     "initial_velocity_mps": 0.0,
     "rounds_per_minute": 0,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 172.4,
+    "initial_velocity_mps": 629.0,
+    "rounds_per_minute": 1.0,
+    "caliber_cm": 23.4,
+    "barrel_length": 31.5,
+    "barrel_count": 1,
+    "max_elevation": "+15/-5",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

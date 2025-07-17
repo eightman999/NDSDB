@@ -1,12 +1,21 @@
 {
   "equipment_type": "大口径砲",
   "common": {
+<<<<<<< HEAD
     "名前": "14-inch/45-caliber gun",
     "ID": "SMHG009",
     "重量": 0,
     "人員": 0,
     "開発年": 1910,
     "開発国": "USA",
+=======
+    "名前": "30.5 cm/45 Škoda 3",
+    "ID": "SMHG009",
+    "重量": 669000,
+    "人員": 0,
+    "開発年": 1910,
+    "開発国": "AUS",
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -14,6 +23,7 @@
     "必要資源_ゴム": 0
   },
   "specific": {
+<<<<<<< HEAD
     "shell_weight_kg": 0.0,
     "initial_velocity_mps": 0.0,
     "rounds_per_minute": 0,
@@ -24,3 +34,15 @@
     "turret_count": 1
   }
 }
+=======
+    "shell_weight_kg": 450.0,
+    "initial_velocity_mps": 800.0,
+    "rounds_per_minute": 2.1,
+    "caliber_cm": 30.5,
+    "barrel_length": 45.0,
+    "barrel_count": 3,
+    "max_elevation": "24",
+    "turret_count": 1
+  }
+}
+>>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
