@@ -3,11 +3,11 @@
 NDSDB は Naval Design System 向けのデータベースです。艦艇の設計情報や武装・センサーなどの装備データを JSON 形式で保存します。
 
 ## ディレクトリ
-- `designs/` — 艦の設計定義
-- `equipments/` — 装備品データを種類別に配置 (SMAA, SMLG など)
+- `designs/` — 艦の設計定義 ([詳細](designs/README.md))
+- `equipments/` — 装備品データを種類別に配置 (SMAA, SMLG など) ([詳細](equipments/README.md))
 - `equipments_templates.yml` — 各装備タイプのフィールド構造を記したテンプレート
-- `hulls_backup_*` — 船体データのバックアップ
-- `fleets/` — 艦隊編成情報
+- `hulls_backup_*` — 船体データのバックアップ ([詳細](hulls_backup_1751699776/README.md))
+- `fleets/` — 艦隊編成情報 ([詳細](fleets/README.md))
 - `convert_*.py` — YAML から JSON へ変換するスクリプト群
 
 ## スクリプトの実行例
