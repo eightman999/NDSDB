@@ -161,3 +161,4 @@ benchmark_results/
 # ユーザー固有の設定
 user_preferences.json
 local_settings.json
+.sync_backups/backup_20250719_154643
