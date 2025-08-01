@@ -1,0 +1,40 @@
+{
+  "name": "条約型航空母艦 II",
+  "id": "SSH_CV_4",
+  "weight": 20100.0,
+  "length": 241.13,
+  "width": 28.58,
+  "power": 124666.67,
+  "speed": 32.6,
+  "range": 8940.0,
+  "cruise_speed": 16.33,
+  "fuel_capacity": 3322.33,
+  "armor_max": 93.67,
+  "armor_min": 41.33,
+  "hull_structure_id": 1.33,
+  "armor_type_id": 1.4,
+  "crew": 1161.67,
+  "country": "NULL",
+  "class": "CV_4",
+  "year": 1938.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "32.60",
+  "naval_range": "8940.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": "=",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

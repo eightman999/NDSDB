@@ -1,0 +1,40 @@
+{
+  "name": "川内型",
+  "id": "USH_JAP_CL_kawauchi_class",
+  "weight": 5595.0,
+  "length": 162.15,
+  "width": 14.17,
+  "power": 90000.0,
+  "speed": 35.25,
+  "range": 5000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 1630.0,
+  "armor_max": 63.5,
+  "armor_min": 63.5,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.4,
+  "crew": 446.0,
+  "country": "JAP",
+  "class": "CL_1",
+  "year": 1920.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "35.25",
+  "naval_range": "5000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

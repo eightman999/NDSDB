@@ -1,15 +1,6 @@
 {
   "equipment_type": "小口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "QF 13-pounder gun",
-    "ID": "SMLG228",
-    "重量": 850,
-    "人員": 5,
-    "開発年": 1904,
-    "開発国": "United Kingdom",
-    "必要資源_鉄": 0,
-=======
     "名前": "Ordnance QF 4 inch gun Mk XVI* (Twin Mk XIX)",
     "ID": "SMLG228",
     "重量": 4078.0,
@@ -17,35 +8,19 @@
     "開発年": 1936.0,
     "開発国": "ENG",
     "必要資源_鉄": 1,
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 6.2,
-    "initial_velocity_mps": 740.0,
-    "rounds_per_minute": 20,
-    "caliber_cm": 7.6,
-    "barrel_length": 45,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
-    "shell_weight_g": 0,
+    "shell_weight_kg": 15.88,
     "initial_velocity_mps": 811.0,
     "rounds_per_minute": 15.0,
-    "caliber_mm": 0,
+    "caliber_cm": 10.16,
     "barrel_length": 45.0,
     "barrel_count": 2,
     "max_elevation": "80",
-    "turret_count": 1,
-    "shell_weight_kg": 15.88,
-    "caliber_cm": 10.16
+    "turret_count": 1
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

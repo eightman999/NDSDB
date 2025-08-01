@@ -1,0 +1,40 @@
+{
+  "name": "陽炎型",
+  "id": "USH_JAP_DD_kagerou_class",
+  "weight": 1844.4,
+  "length": 118.5,
+  "width": 10.8,
+  "power": 52000.0,
+  "speed": 35.0,
+  "range": 5000.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 622.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.38,
+  "armor_type_id": 1.0,
+  "crew": 225.0,
+  "country": "JAP",
+  "class": "DD_8",
+  "year": 1939.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "35.00",
+  "naval_range": "5000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

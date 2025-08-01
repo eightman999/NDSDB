@@ -1,0 +1,40 @@
+{
+  "name": "WWII型駆逐艦 I",
+  "id": "SSH_DD_8",
+  "weight": 1861.88,
+  "length": 107.85,
+  "width": 10.72,
+  "power": 44000.0,
+  "speed": 36.44,
+  "range": 5176.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 511.5,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.36,
+  "armor_type_id": 1.0,
+  "crew": 202.6,
+  "country": "NULL",
+  "class": "DD_8",
+  "year": 1938.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "36.44",
+  "naval_range": "5176.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

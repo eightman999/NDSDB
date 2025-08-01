@@ -1,0 +1,40 @@
+{
+  "name": "報国丸型",
+  "id": "USH_JAP_AC_houkokumaru_class",
+  "weight": 10439.0,
+  "length": 160.8,
+  "width": 20.2,
+  "power": 19427.0,
+  "speed": 21.15,
+  "range": 0,
+  "cruise_speed": 17.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.0,
+  "crew": 300.0,
+  "country": "JAP",
+  "class": "MC",
+  "year": 1940.0,
+  "archetype": "MC - 特設巡洋艦",
+  "type": "AC - 特設巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "21.15",
+  "naval_range": "",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

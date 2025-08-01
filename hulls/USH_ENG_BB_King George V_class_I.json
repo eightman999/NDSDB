@@ -1,0 +1,40 @@
+{
+  "name": "King George V級_I",
+  "id": "USH_ENG_BB_King George V_class_I",
+  "weight": 25700.0,
+  "length": 182.1,
+  "width": 27.1,
+  "power": 31000.0,
+  "speed": 21.0,
+  "range": 6730.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 3950.0,
+  "armor_max": 305.0,
+  "armor_min": 102.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.8,
+  "crew": 782.0,
+  "country": "ENG",
+  "class": "BB_0",
+  "year": 1915.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "21.00",
+  "naval_range": "6730.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

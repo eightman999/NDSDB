@@ -1,0 +1,40 @@
+{
+  "name": "CVA-01級",
+  "id": "USH_ENG_CV_CVA-01_class",
+  "weight": 53000.0,
+  "length": 281.0,
+  "width": 56.1,
+  "power": 135000.0,
+  "speed": 28.0,
+  "range": 6000.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 7000.0,
+  "armor_max": 112.0,
+  "armor_min": 20.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.8,
+  "crew": 2720.0,
+  "country": "ENG",
+  "class": "CV_9",
+  "year": 1965.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "28.00",
+  "naval_range": "6000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

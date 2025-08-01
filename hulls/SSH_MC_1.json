@@ -1,0 +1,40 @@
+{
+  "name": "仮装巡洋艦",
+  "id": "SSH_MC_1",
+  "weight": 7856.89,
+  "length": 134.91,
+  "width": 16.64,
+  "power": 7740.67,
+  "speed": 17.67,
+  "range": 31485.71,
+  "cruise_speed": 14.72,
+  "fuel_capacity": 1474.75,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.67,
+  "armor_type_id": 1.0,
+  "crew": 184.78,
+  "country": "NULL",
+  "class": "MC",
+  "year": 1934.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "17.67",
+  "naval_range": "31485.71",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

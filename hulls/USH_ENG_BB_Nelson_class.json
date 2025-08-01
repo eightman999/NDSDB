@@ -1,0 +1,40 @@
+{
+  "name": "Nelson級",
+  "id": "USH_ENG_BB_Nelson_class",
+  "weight": 38000.0,
+  "length": 216.4,
+  "width": 32.3,
+  "power": 45000.0,
+  "speed": 23.0,
+  "range": 7000.0,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 3866.0,
+  "armor_max": 356.0,
+  "armor_min": 330.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 2.0,
+  "crew": 1640.0,
+  "country": "ENG",
+  "class": "BB_2",
+  "year": 1925.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "23.00",
+  "naval_range": "7000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

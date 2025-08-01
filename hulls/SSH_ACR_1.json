@@ -1,0 +1,40 @@
+{
+  "name": "装甲巡洋艦 II",
+  "id": "SSH_ACR_1",
+  "weight": 11037.25,
+  "length": 134.22,
+  "width": 20.69,
+  "power": 17270.0,
+  "speed": 21.6,
+  "range": 5118.0,
+  "cruise_speed": 10.5,
+  "fuel_capacity": 1693.33,
+  "armor_max": 178.0,
+  "armor_min": 122.75,
+  "hull_structure_id": 1.26,
+  "armor_type_id": 1.4,
+  "crew": 718.25,
+  "country": "NULL",
+  "class": "ACR",
+  "year": 1907.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "21.60",
+  "naval_range": "5118.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

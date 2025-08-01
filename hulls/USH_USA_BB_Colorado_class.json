@@ -1,0 +1,40 @@
+{
+  "name": "Colorado級",
+  "id": "USH_USA_BB_Colorado_class",
+  "weight": 32600.0,
+  "length": 190.2,
+  "width": 29.7,
+  "power": 28900.0,
+  "speed": 21.0,
+  "range": 12100.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 4570.0,
+  "armor_max": 343.0,
+  "armor_min": 203.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 2.0,
+  "crew": 1084.0,
+  "country": "USA",
+  "class": "BB_1",
+  "year": 1921.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "21.00",
+  "naval_range": "12100.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

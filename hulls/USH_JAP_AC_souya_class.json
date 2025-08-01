@@ -1,0 +1,40 @@
+{
+  "name": "宗谷級",
+  "id": "USH_JAP_AC_souya_class",
+  "weight": 3800.0,
+  "length": 82.3,
+  "width": 12.8,
+  "power": 1597.0,
+  "speed": 12.0,
+  "range": 5000.0,
+  "cruise_speed": 8.5,
+  "fuel_capacity": 819.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.0,
+  "crew": 67.0,
+  "country": "JAP",
+  "class": "TCC",
+  "year": 1938.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "12.00",
+  "naval_range": "5000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

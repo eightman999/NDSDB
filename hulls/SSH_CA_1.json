@@ -1,0 +1,40 @@
+{
+  "name": "一等巡洋艦　I",
+  "id": "SSH_CA_1",
+  "weight": 12071.5,
+  "length": 189.02,
+  "width": 19.04,
+  "power": 96931.67,
+  "speed": 33.76,
+  "range": 6380.5,
+  "cruise_speed": 14.5,
+  "fuel_capacity": 2290.4,
+  "armor_max": 71.67,
+  "armor_min": 58.17,
+  "hull_structure_id": 1.78,
+  "armor_type_id": 1.72,
+  "crew": 710.67,
+  "country": "NULL",
+  "class": "CA_1",
+  "year": 1925.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "33.76",
+  "naval_range": "6380.50",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "=",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

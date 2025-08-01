@@ -1,0 +1,40 @@
+{
+  "name": "定遠級",
+  "id": "USH_CHI_IC_Teien_Class",
+  "weight": 7144.0,
+  "length": 94.5,
+  "width": 18.4,
+  "power": 6200.0,
+  "speed": 14.5,
+  "range": 4500.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1000.0,
+  "armor_max": 355.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 0.8,
+  "armor_type_id": 1.0,
+  "crew": 365.0,
+  "country": "CHI",
+  "class": "IC",
+  "year": 1885.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "IC - 装甲艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "14.50",
+  "naval_range": "4500.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

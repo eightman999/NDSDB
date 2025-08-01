@@ -1,0 +1,40 @@
+{
+  "name": "J_K_N級",
+  "id": "USH_ENG_DD_J_K_N_class",
+  "weight": 1760.0,
+  "length": 108.66,
+  "width": 10.67,
+  "power": 40000.0,
+  "speed": 36.0,
+  "range": 4780.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 484.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.35,
+  "armor_type_id": 1.0,
+  "crew": 218.0,
+  "country": "ENG",
+  "class": "DD_8",
+  "year": 1939.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "36.00",
+  "naval_range": "4780.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "O級",
+  "id": "USH_ENG_DD_O_class",
+  "weight": 1540.0,
+  "length": 105.0,
+  "width": 11.0,
+  "power": 40000.0,
+  "speed": 37.0,
+  "range": 3850.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 472.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.45,
+  "armor_type_id": 1.2,
+  "crew": 175.0,
+  "country": "ENG",
+  "class": "DD_9",
+  "year": 1941.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "37.00",
+  "naval_range": "3850.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

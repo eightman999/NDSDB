@@ -1,0 +1,40 @@
+{
+  "name": "モニター艦",
+  "id": "SSH_MT_1",
+  "weight": 7916.67,
+  "length": 111.8,
+  "width": 27.13,
+  "power": 4366.67,
+  "speed": 10.83,
+  "range": 2480.0,
+  "cruise_speed": 10.17,
+  "fuel_capacity": 791.67,
+  "armor_max": 117.87,
+  "armor_min": 117.87,
+  "hull_structure_id": 1.63,
+  "armor_type_id": 1.5,
+  "crew": 271.67,
+  "country": "NULL",
+  "class": "MT",
+  "year": 1932.0,
+  "archetype": "FAV - 一等補助艦",
+  "type": "BM - モニター艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "10.83",
+  "naval_range": "2480.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

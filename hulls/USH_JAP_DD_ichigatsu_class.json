@@ -1,0 +1,40 @@
+{
+  "name": "睦月型",
+  "id": "USH_JAP_DD_ichigatsu_class",
+  "weight": 1445.0,
+  "length": 102.72,
+  "width": 9.14,
+  "power": 38500.0,
+  "speed": 37.25,
+  "range": 4000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 450.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.25,
+  "armor_type_id": 1.0,
+  "crew": 145.0,
+  "country": "JAP",
+  "class": "DD_5",
+  "year": 1926.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "37.25",
+  "naval_range": "4000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

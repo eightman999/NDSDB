@@ -1,0 +1,40 @@
+{
+  "name": "Neptune級",
+  "id": "USH_ENG_BB_Neptune_class",
+  "weight": 22726.0,
+  "length": 166.4,
+  "width": 25.9,
+  "power": 27721.0,
+  "speed": 22.7,
+  "range": 6330.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 3500.0,
+  "armor_max": 254.0,
+  "armor_min": 102.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.6,
+  "crew": 872.0,
+  "country": "ENG",
+  "class": "DBB",
+  "year": 1911.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "22.70",
+  "naval_range": "6330.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

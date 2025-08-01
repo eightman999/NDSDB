@@ -1,0 +1,40 @@
+{
+  "name": "Boadicea級",
+  "id": "USH_ENG_CS_Boadicea_class",
+  "weight": 3300.0,
+  "length": 123.4,
+  "width": 12.5,
+  "power": 18000.0,
+  "speed": 25.0,
+  "range": 7890.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 0,
+  "armor_max": 25.0,
+  "armor_min": 13.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.2,
+  "crew": 317.0,
+  "country": "ENG",
+  "class": "CS",
+  "year": 1909.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CS - 偵察巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "25.00",
+  "naval_range": "7890.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

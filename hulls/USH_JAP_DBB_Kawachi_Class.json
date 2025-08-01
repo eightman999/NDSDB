@@ -1,0 +1,40 @@
+{
+  "name": "河内型",
+  "id": "USH_JAP_DBB_Kawachi_Class",
+  "weight": 21443.0,
+  "length": 162.5,
+  "width": 25.6,
+  "power": 30399.0,
+  "speed": 21.0,
+  "range": 3700.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 2700.0,
+  "armor_max": 305.0,
+  "armor_min": 127.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.6,
+  "crew": 999.0,
+  "country": "JAP",
+  "class": "DBB",
+  "year": 1912.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "21.00",
+  "naval_range": "3700.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

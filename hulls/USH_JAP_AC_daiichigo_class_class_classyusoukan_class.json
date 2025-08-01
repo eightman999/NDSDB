@@ -1,0 +1,40 @@
+{
+  "name": "第一号型輸送艦級",
+  "id": "USH_JAP_AC_daiichigo_class_class_classyusoukan_class",
+  "weight": 1965.0,
+  "length": 96.0,
+  "width": 10.2,
+  "power": 9500.0,
+  "speed": 22.0,
+  "range": 3700.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 415.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.3,
+  "armor_type_id": 1.0,
+  "crew": 148.0,
+  "country": "JAP",
+  "class": "TCC",
+  "year": 1944.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "22.00",
+  "naval_range": "3700.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

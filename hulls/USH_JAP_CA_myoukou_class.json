@@ -1,0 +1,40 @@
+{
+  "name": "妙高型",
+  "id": "USH_JAP_CA_myoukou_class",
+  "weight": 14984.0,
+  "length": 203.7,
+  "width": 20.37,
+  "power": 132000.0,
+  "speed": 33.3,
+  "range": 8500.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 2214.0,
+  "armor_max": 102.0,
+  "armor_min": 102.0,
+  "hull_structure_id": 1.88,
+  "armor_type_id": 2.0,
+  "crew": 891.0,
+  "country": "JAP",
+  "class": "CA_1",
+  "year": 1924.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "33.30",
+  "naval_range": "8500.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "=",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

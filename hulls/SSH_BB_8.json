@@ -1,0 +1,40 @@
+{
+  "name": "究極型戦艦",
+  "id": "SSH_BB_8",
+  "weight": 71553.94,
+  "length": 313.34,
+  "width": 36.33,
+  "power": 281500.53,
+  "speed": 39.59,
+  "range": 7447.07,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 9404.94,
+  "armor_max": 331.33,
+  "armor_min": 0.42,
+  "hull_structure_id": 2.93,
+  "armor_type_id": 2.0,
+  "crew": 2818.94,
+  "country": "NULL",
+  "class": "BB_9",
+  "year": 1956.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "39.59",
+  "naval_range": "7447.07",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

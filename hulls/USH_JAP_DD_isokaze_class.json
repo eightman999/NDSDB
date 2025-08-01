@@ -1,0 +1,40 @@
+{
+  "name": "磯風型",
+  "id": "USH_JAP_DD_isokaze_class",
+  "weight": 1227.0,
+  "length": 96.62,
+  "width": 8.53,
+  "power": 27000.0,
+  "speed": 34.0,
+  "range": 3360.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 440.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.15,
+  "armor_type_id": 1.0,
+  "crew": 145.0,
+  "country": "JAP",
+  "class": "DD_3",
+  "year": 1915.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "34.00",
+  "naval_range": "3360.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

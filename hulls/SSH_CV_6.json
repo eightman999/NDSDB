@@ -1,0 +1,40 @@
+{
+  "name": "WWII型航空母艦　II",
+  "id": "SSH_CV_6",
+  "weight": 24716.67,
+  "length": 241.12,
+  "width": 27.57,
+  "power": 166666.67,
+  "speed": 33.67,
+  "range": 8933.05,
+  "cruise_speed": 17.0,
+  "fuel_capacity": 4534.67,
+  "armor_max": 118.0,
+  "armor_min": 23.33,
+  "hull_structure_id": 1.55,
+  "armor_type_id": 1.68,
+  "crew": 1485.33,
+  "country": "NULL",
+  "class": "CV_6",
+  "year": 1943.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "33.67",
+  "naval_range": "8933.05",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

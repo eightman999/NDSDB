@@ -1,0 +1,40 @@
+{
+  "name": "神風型_II",
+  "id": "USH_JAP_DD_kamikaze_class_II",
+  "weight": 1400.0,
+  "length": 102.57,
+  "width": 9.14,
+  "power": 38500.0,
+  "speed": 37.25,
+  "range": 3600.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 420.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.21,
+  "armor_type_id": 1.0,
+  "crew": 149.0,
+  "country": "JAP",
+  "class": "DD_4",
+  "year": 1922.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "37.25",
+  "naval_range": "3600.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

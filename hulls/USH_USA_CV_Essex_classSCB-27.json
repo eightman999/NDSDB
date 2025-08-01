@@ -1,0 +1,40 @@
+{
+  "name": "Essex級SCB-27",
+  "id": "USH_USA_CV_Essex_classSCB-27",
+  "weight": 33000.0,
+  "length": 265.2,
+  "width": 28.4,
+  "power": 150000.0,
+  "speed": 30.0,
+  "range": 15440.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 6750.0,
+  "armor_max": 102.0,
+  "armor_min": 64.0,
+  "hull_structure_id": 1.75,
+  "armor_type_id": 1.8,
+  "crew": 2170.0,
+  "country": "USA",
+  "class": "CV_7",
+  "year": 1950.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "30.00",
+  "naval_range": "15440.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

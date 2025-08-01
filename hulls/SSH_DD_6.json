@@ -1,0 +1,40 @@
+{
+  "name": "条約型駆逐艦 I",
+  "id": "SSH_DD_6",
+  "weight": 1538.75,
+  "length": 105.26,
+  "width": 10.22,
+  "power": 42100.0,
+  "speed": 35.69,
+  "range": 4842.5,
+  "cruise_speed": 14.88,
+  "fuel_capacity": 478.29,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.3,
+  "armor_type_id": 1.0,
+  "crew": 175.88,
+  "country": "NULL",
+  "class": "DD_6",
+  "year": 1934.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "35.69",
+  "naval_range": "4842.50",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

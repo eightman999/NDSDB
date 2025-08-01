@@ -1,0 +1,40 @@
+{
+  "name": "Dreadnought級",
+  "id": "USH_ENG_BB_Dreadnought_class",
+  "weight": 21845.0,
+  "length": 160.6,
+  "width": 25.0,
+  "power": 23000.0,
+  "speed": 21.0,
+  "range": 6600.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 3400.0,
+  "armor_max": 279.0,
+  "armor_min": 203.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.6,
+  "crew": 734.0,
+  "country": "ENG",
+  "class": "DBB",
+  "year": 1910.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "21.00",
+  "naval_range": "6600.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

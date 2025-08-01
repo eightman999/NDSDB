@@ -1,0 +1,40 @@
+{
+  "name": "高雄型",
+  "id": "USH_JAP_CA_takao_class",
+  "weight": 13400.0,
+  "length": 203.76,
+  "width": 20.4,
+  "power": 133000.0,
+  "speed": 35.5,
+  "range": 5050.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 2318.0,
+  "armor_max": 127.0,
+  "armor_min": 38.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 900.0,
+  "country": "JAP",
+  "class": "CA_2",
+  "year": 1930.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "35.50",
+  "naval_range": "5050.00",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

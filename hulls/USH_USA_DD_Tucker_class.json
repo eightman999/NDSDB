@@ -1,0 +1,40 @@
+{
+  "name": "Tucker級",
+  "id": "USH_USA_DD_Tucker_class",
+  "weight": 1150.0,
+  "length": 93.09,
+  "width": 9.5,
+  "power": 18000.0,
+  "speed": 29.5,
+  "range": 4600.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 310.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.0,
+  "crew": 99.0,
+  "country": "USA",
+  "class": "DD_2",
+  "year": 1915.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "29.50",
+  "naval_range": "4600.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

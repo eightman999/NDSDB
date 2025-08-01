@@ -1,0 +1,40 @@
+{
+  "name": "A型貨物船型",
+  "id": "USH_JAP_AC_A_classkamotsusen_class",
+  "weight": 9600.0,
+  "length": 160.8,
+  "width": 19.0,
+  "power": 8000.0,
+  "speed": 19.0,
+  "range": 36000.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 2500.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.0,
+  "crew": 70.0,
+  "country": "JAP",
+  "class": "MC",
+  "year": 1935.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "19.00",
+  "naval_range": "36000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

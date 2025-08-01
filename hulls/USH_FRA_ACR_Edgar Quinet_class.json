@@ -1,0 +1,40 @@
+{
+  "name": "Edgar Quinet級",
+  "id": "USH_FRA_ACR_Edgar Quinet_class",
+  "weight": 13847.0,
+  "length": 158.9,
+  "width": 21.5,
+  "power": 40294.0,
+  "speed": 23.9,
+  "range": 11000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2000.0,
+  "armor_max": 170.0,
+  "armor_min": 90.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.2,
+  "crew": 892.0,
+  "country": "FRA",
+  "class": "ACR",
+  "year": 1911.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "23.90",
+  "naval_range": "11000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

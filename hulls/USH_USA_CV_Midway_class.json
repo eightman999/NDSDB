@@ -1,0 +1,40 @@
+{
+  "name": "Midway級",
+  "id": "USH_USA_CV_Midway_class",
+  "weight": 45000.0,
+  "length": 295.05,
+  "width": 49.68,
+  "power": 212000.0,
+  "speed": 33.0,
+  "range": 12000.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 6500.0,
+  "armor_max": 193.0,
+  "armor_min": 60.0,
+  "hull_structure_id": 1.75,
+  "armor_type_id": 1.8,
+  "crew": 4104.0,
+  "country": "USA",
+  "class": "CV_7",
+  "year": 1945.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "33.00",
+  "naval_range": "12000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

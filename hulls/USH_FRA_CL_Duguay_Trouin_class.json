@@ -1,0 +1,40 @@
+{
+  "name": "Duguay_Trouin級",
+  "id": "USH_FRA_CL_Duguay_Trouin_class",
+  "weight": 9400.0,
+  "length": 181.6,
+  "width": 17.2,
+  "power": 102000.0,
+  "speed": 33.0,
+  "range": 3000.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 0,
+  "armor_max": 20.0,
+  "armor_min": 20.0,
+  "hull_structure_id": 1.7,
+  "armor_type_id": 2.0,
+  "crew": 578.0,
+  "country": "FRA",
+  "class": "CL_1",
+  "year": 1922.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "33.00",
+  "naval_range": "3000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

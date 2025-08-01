@@ -1,0 +1,40 @@
+{
+  "name": "Montana級",
+  "id": "USH_USA_SB_Montana_class",
+  "weight": 70965.0,
+  "length": 281.94,
+  "width": 36.78,
+  "power": 172000.0,
+  "speed": 28.0,
+  "range": 12000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 7600.0,
+  "armor_max": 434.0,
+  "armor_min": 434.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 2978.0,
+  "country": "USA",
+  "class": "SHBB",
+  "year": 1943.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "SB - 超戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "28.00",
+  "naval_range": "12000.00",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

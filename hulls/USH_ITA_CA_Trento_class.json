@@ -1,0 +1,40 @@
+{
+  "name": "Trento級",
+  "id": "USH_ITA_CA_Trento_class",
+  "weight": 13548.0,
+  "length": 196.9,
+  "width": 20.6,
+  "power": 150000.0,
+  "speed": 38.1,
+  "range": 4160.0,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 3000.0,
+  "armor_max": 70.0,
+  "armor_min": 70.0,
+  "hull_structure_id": 1.82,
+  "armor_type_id": 1.8,
+  "crew": 723.0,
+  "country": "ITA",
+  "class": "CA_1",
+  "year": 1929.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "38.10",
+  "naval_range": "4160.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "=",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "須磨型",
+  "id": "USH_JAP_C_suma_class",
+  "weight": 2657.0,
+  "length": 93.5,
+  "width": 12.25,
+  "power": 8500.0,
+  "speed": 20.0,
+  "range": 11000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 540.0,
+  "armor_max": 51.0,
+  "armor_min": 25.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.5,
+  "crew": 256.0,
+  "country": "JAP",
+  "class": "C",
+  "year": 1896.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "C - 防護巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "20.00",
+  "naval_range": "11000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

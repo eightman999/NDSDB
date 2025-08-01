@@ -1,0 +1,40 @@
+{
+  "name": "戦後型戦艦 IV",
+  "id": "SSH_BB_6",
+  "weight": 67940.79,
+  "length": 301.86,
+  "width": 35.85,
+  "power": 258765.75,
+  "speed": 38.01,
+  "range": 8036.37,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 8885.46,
+  "armor_max": 330.59,
+  "armor_min": 38.35,
+  "hull_structure_id": 2.79,
+  "armor_type_id": 2.0,
+  "crew": 2693.33,
+  "country": "NULL",
+  "class": "BB_7",
+  "year": 1954.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "38.01",
+  "naval_range": "8036.37",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

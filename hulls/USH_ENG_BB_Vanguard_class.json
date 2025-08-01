@@ -1,0 +1,40 @@
+{
+  "name": "Vanguard級",
+  "id": "USH_ENG_BB_Vanguard_class",
+  "weight": 51420.0,
+  "length": 248.3,
+  "width": 32.8,
+  "power": 136000.0,
+  "speed": 31.57,
+  "range": 6660.0,
+  "cruise_speed": 12.0,
+  "fuel_capacity": 4513.0,
+  "armor_max": 356.0,
+  "armor_min": 112.0,
+  "hull_structure_id": 2.2,
+  "armor_type_id": 2.0,
+  "crew": 1590.0,
+  "country": "ENG",
+  "class": "BB_3",
+  "year": 1946.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "31.57",
+  "naval_range": "6660.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

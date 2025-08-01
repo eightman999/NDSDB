@@ -1,0 +1,40 @@
+{
+  "name": "超重戦艦 III",
+  "id": "SSH_SHBB_3",
+  "weight": 72811.64,
+  "length": 282.93,
+  "width": 38.28,
+  "power": 181318.52,
+  "speed": 28.91,
+  "range": 9073.33,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 7414.27,
+  "armor_max": 422.66,
+  "armor_min": 388.11,
+  "hull_structure_id": 3.4,
+  "armor_type_id": 2.0,
+  "crew": 3267.26,
+  "country": "NULL",
+  "class": "SHBB",
+  "year": 1944.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "SB - 超戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "28.91",
+  "naval_range": "9073.33",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": " "
+  }
+}

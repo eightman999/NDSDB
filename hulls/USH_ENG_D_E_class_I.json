@@ -1,0 +1,40 @@
+{
+  "name": "E級_I",
+  "id": "USH_ENG_D_E_class_I",
+  "weight": 550.0,
+  "length": 71.0,
+  "width": 7.28,
+  "power": 7000.0,
+  "speed": 25.5,
+  "range": 2889.12,
+  "cruise_speed": 11.0,
+  "fuel_capacity": 138.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 60.0,
+  "country": "ENG",
+  "class": "DD_1",
+  "year": 1904.0,
+  "archetype": "DE - 二等駆逐艦",
+  "type": "D - 水雷駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "25.50",
+  "naval_range": "2889.12",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

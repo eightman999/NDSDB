@@ -1,0 +1,40 @@
+{
+  "name": "Mississippi級",
+  "id": "USH_USA_B_Mississippi_class",
+  "weight": 14239.0,
+  "length": 116.0,
+  "width": 23.0,
+  "power": 13670.0,
+  "speed": 17.11,
+  "range": 5750.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1750.0,
+  "armor_max": 229.0,
+  "armor_min": 102.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 2.0,
+  "crew": 734.0,
+  "country": "USA",
+  "class": "SDBB",
+  "year": 1911.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "17.11",
+  "naval_range": "5750.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

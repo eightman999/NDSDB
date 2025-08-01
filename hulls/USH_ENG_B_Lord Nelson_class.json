@@ -1,0 +1,40 @@
+{
+  "name": "Lord Nelson級",
+  "id": "USH_ENG_B_Lord Nelson_class",
+  "weight": 17820.0,
+  "length": 152.4,
+  "width": 24.2,
+  "power": 16750.0,
+  "speed": 18.0,
+  "range": 9180.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 3240.0,
+  "armor_max": 305.0,
+  "armor_min": 205.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.0,
+  "crew": 800.0,
+  "country": "ENG",
+  "class": "SDBB",
+  "year": 1908.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "18.00",
+  "naval_range": "9180.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Algérie級",
+  "id": "USH_FRA_CA_Algerie_class",
+  "weight": 13900.0,
+  "length": 196.2,
+  "width": 20.0,
+  "power": 93230.0,
+  "speed": 32.9,
+  "range": 8500.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 0,
+  "armor_max": 110.0,
+  "armor_min": 80.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 2.0,
+  "crew": 748.0,
+  "country": "FRA",
+  "class": "CA_3",
+  "year": 1934.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "32.90",
+  "naval_range": "8500.00",
+  "hull_structure": "近代型",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

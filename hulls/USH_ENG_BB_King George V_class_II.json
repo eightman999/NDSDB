@@ -1,0 +1,40 @@
+{
+  "name": "King George V級_II",
+  "id": "USH_ENG_BB_King George V_class_II",
+  "weight": 42237.0,
+  "length": 227.1,
+  "width": 31.5,
+  "power": 110000.0,
+  "speed": 28.0,
+  "range": 5700.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 4500.0,
+  "armor_max": 381.0,
+  "armor_min": 356.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 2.0,
+  "crew": 1900.0,
+  "country": "ENG",
+  "class": "BB_2",
+  "year": 1940.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "28.00",
+  "naval_range": "5700.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

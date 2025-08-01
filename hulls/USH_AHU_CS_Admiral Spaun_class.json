@@ -1,0 +1,40 @@
+{
+  "name": "Admiral Spaun型",
+  "id": "USH_AHU_CS_Admiral Spaun_class",
+  "weight": 4000.0,
+  "length": 130.6,
+  "width": 12.8,
+  "power": 25254.0,
+  "speed": 27.07,
+  "range": 1600.0,
+  "cruise_speed": 24.0,
+  "fuel_capacity": 0,
+  "armor_max": 60.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.2,
+  "crew": 327.0,
+  "country": "AHU",
+  "class": "CS",
+  "year": 1910.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CS - 偵察巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "27.07",
+  "naval_range": "1600.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

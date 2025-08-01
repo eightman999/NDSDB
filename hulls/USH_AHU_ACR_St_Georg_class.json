@@ -1,0 +1,40 @@
+{
+  "name": "St_Georg級",
+  "id": "USH_AHU_ACR_St_Georg_class",
+  "weight": 8069.0,
+  "length": 123.33,
+  "width": 19.0,
+  "power": 15000.0,
+  "speed": 22.0,
+  "range": 8300.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 0,
+  "armor_max": 210.0,
+  "armor_min": 165.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 1.4,
+  "crew": 681.0,
+  "country": "AHU",
+  "class": "ACR",
+  "year": 1905.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "22.00",
+  "naval_range": "8300.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "飛龍型",
+  "id": "USH_JAP_CV_hiryuu_class",
+  "weight": 17300.0,
+  "length": 227.35,
+  "width": 22.0,
+  "power": 152000.0,
+  "speed": 34.3,
+  "range": 7670.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 3750.0,
+  "armor_max": 65.0,
+  "armor_min": 22.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.4,
+  "crew": 1103.0,
+  "country": "JAP",
+  "class": "CV_4",
+  "year": 1939.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "34.30",
+  "naval_range": "7670.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "WWII急造駆逐艦 I",
+  "id": "SSH_DD_9B",
+  "weight": 1553.0,
+  "length": 106.84,
+  "width": 10.57,
+  "power": 34750.0,
+  "speed": 34.51,
+  "range": 3927.5,
+  "cruise_speed": 19.5,
+  "fuel_capacity": 553.75,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.44,
+  "armor_type_id": 1.2,
+  "crew": 241.0,
+  "country": "NULL",
+  "class": "DD_9B",
+  "year": 1943.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "34.51",
+  "naval_range": "3927.50",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

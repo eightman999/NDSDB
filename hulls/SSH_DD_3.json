@@ -1,0 +1,40 @@
+{
+  "name": "WWI期型駆逐艦 II",
+  "id": "SSH_DD_3",
+  "weight": 1098.0,
+  "length": 89.78,
+  "width": 8.43,
+  "power": 26500.0,
+  "speed": 34.5,
+  "range": 2702.5,
+  "cruise_speed": 14.75,
+  "fuel_capacity": 345.25,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.19,
+  "armor_type_id": 1.0,
+  "crew": 109.75,
+  "country": "NULL",
+  "class": "DD_3",
+  "year": 1915.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "34.50",
+  "naval_range": "2702.50",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

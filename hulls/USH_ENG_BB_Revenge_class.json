@@ -1,0 +1,40 @@
+{
+  "name": "Revenge級",
+  "id": "USH_ENG_BB_Revenge_class",
+  "weight": 31500.0,
+  "length": 190.3,
+  "width": 27.0,
+  "power": 40000.0,
+  "speed": 23.0,
+  "range": 4200.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 3400.0,
+  "armor_max": 330.0,
+  "armor_min": 152.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 2.0,
+  "crew": 1027.0,
+  "country": "ENG",
+  "class": "BB_1",
+  "year": 1916.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "23.00",
+  "naval_range": "4200.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "=",
+    "SLA": "-"
+  }
+}

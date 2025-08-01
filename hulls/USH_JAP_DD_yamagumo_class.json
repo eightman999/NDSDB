@@ -1,0 +1,40 @@
+{
+  "name": "やまぐも型",
+  "id": "USH_JAP_DD_yamagumo_class",
+  "weight": 2050.0,
+  "length": 11.8,
+  "width": 7.9,
+  "power": 26500.0,
+  "speed": 27.0,
+  "range": 7000.0,
+  "cruise_speed": 20.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.75,
+  "armor_type_id": 1.5,
+  "crew": 210.0,
+  "country": "JAP",
+  "class": "DD_14",
+  "year": 1966.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "27.00",
+  "naval_range": "7000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

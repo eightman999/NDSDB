@@ -1,0 +1,40 @@
+{
+  "name": "Tribal級",
+  "id": "USH_ENG_DD_Tribal_class",
+  "weight": 1870.0,
+  "length": 108.4,
+  "width": 11.1,
+  "power": 44000.0,
+  "speed": 36.5,
+  "range": 4800.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 470.0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.35,
+  "armor_type_id": 1.0,
+  "crew": 190.0,
+  "country": "ENG",
+  "class": "DD_8",
+  "year": 1937.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "36.50",
+  "naval_range": "4800.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "=",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

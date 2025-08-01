@@ -1,0 +1,40 @@
+{
+  "name": "Erebus級",
+  "id": "USH_ENG_BM_Erebus_class",
+  "weight": 8450.0,
+  "length": 123.4,
+  "width": 27.0,
+  "power": 6000.0,
+  "speed": 13.0,
+  "range": 2480.0,
+  "cruise_speed": 12.0,
+  "fuel_capacity": 845.0,
+  "armor_max": 152.0,
+  "armor_min": 152.0,
+  "hull_structure_id": 1.6,
+  "armor_type_id": 1.5,
+  "crew": 267.0,
+  "country": "ENG",
+  "class": "MT",
+  "year": 1941.0,
+  "archetype": "FAV - 一等補助艦",
+  "type": "BM - モニター艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "13.00",
+  "naval_range": "2480.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

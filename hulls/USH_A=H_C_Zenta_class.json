@@ -1,0 +1,40 @@
+{
+  "name": "Zenta級",
+  "id": "USH_A=H_C_Zenta_class",
+  "weight": 2631.0,
+  "length": 96.88,
+  "width": 11.73,
+  "power": 8160.0,
+  "speed": 20.8,
+  "range": 3800.0,
+  "cruise_speed": 12.0,
+  "fuel_capacity": 980.0,
+  "armor_max": 25.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.1,
+  "armor_type_id": 1.0,
+  "crew": 308.0,
+  "country": "A=H",
+  "class": "C",
+  "year": 1911.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "C - 防護巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "20.80",
+  "naval_range": "3800.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

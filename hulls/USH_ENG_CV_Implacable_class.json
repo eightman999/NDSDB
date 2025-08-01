@@ -1,0 +1,40 @@
+{
+  "name": "Implacable級",
+  "id": "USH_ENG_CV_Implacable_class",
+  "weight": 23450.0,
+  "length": 233.5,
+  "width": 29.2,
+  "power": 148000.0,
+  "speed": 32.0,
+  "range": 10799.14,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 4854.0,
+  "armor_max": 114.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.5,
+  "armor_type_id": 1.5,
+  "crew": 1585.0,
+  "country": "ENG",
+  "class": "CV_6",
+  "year": 1943.0,
+  "archetype": "CV - 一等航空母艦",
+  "type": "CV - 航空母艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "32.00",
+  "naval_range": "10799.14",
+  "hull_structure": "ミディアム",
+  "armor_type": "重装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "="
+  }
+}

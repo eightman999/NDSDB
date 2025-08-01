@@ -1,0 +1,40 @@
+{
+  "name": "WWII型駆逐艦 II",
+  "id": "SSH_DD_9",
+  "weight": 2078.4,
+  "length": 117.2,
+  "width": 11.67,
+  "power": 51789.0,
+  "speed": 36.18,
+  "range": 5675.0,
+  "cruise_speed": 16.9,
+  "fuel_capacity": 682.38,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.43,
+  "armor_type_id": 1.14,
+  "crew": 247.5,
+  "country": "NULL",
+  "class": "DD_9",
+  "year": 1941.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "36.18",
+  "naval_range": "5675.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

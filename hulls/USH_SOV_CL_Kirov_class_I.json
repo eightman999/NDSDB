@@ -1,0 +1,40 @@
+{
+  "name": "Kirov級_I",
+  "id": "USH_SOV_CL_Kirov_class_I",
+  "weight": 9280.0,
+  "length": 191.4,
+  "width": 17.4,
+  "power": 129700.0,
+  "speed": 36.0,
+  "range": 3750.0,
+  "cruise_speed": 18.0,
+  "fuel_capacity": 1280.0,
+  "armor_max": 50.0,
+  "armor_min": 50.0,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 1.8,
+  "crew": 734.0,
+  "country": "SOV",
+  "class": "CL_2",
+  "year": 1936.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "36.00",
+  "naval_range": "3750.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "特殊装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

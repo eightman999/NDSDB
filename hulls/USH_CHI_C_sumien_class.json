@@ -1,0 +1,40 @@
+{
+  "name": "済遠級",
+  "id": "USH_CHI_C_sumien_class",
+  "weight": 2440.0,
+  "length": 75.0,
+  "width": 10.5,
+  "power": 2800.0,
+  "speed": 15.0,
+  "range": 2100.0,
+  "cruise_speed": 15.0,
+  "fuel_capacity": 230.0,
+  "armor_max": 102.0,
+  "armor_min": 75.0,
+  "hull_structure_id": 1.1,
+  "armor_type_id": 1.1,
+  "crew": 202.0,
+  "country": "CHI",
+  "class": "C",
+  "year": 1885.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "C - 防護巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "15.00",
+  "naval_range": "2100.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

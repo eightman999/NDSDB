@@ -1,0 +1,40 @@
+{
+  "name": "Inflexible級",
+  "id": "USH_ENG_IC_Inflexible_class",
+  "weight": 11880.0,
+  "length": 104.85,
+  "width": 22.86,
+  "power": 7360.0,
+  "speed": 14.7,
+  "range": 3900.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 1300.0,
+  "armor_max": 610.0,
+  "armor_min": 76.0,
+  "hull_structure_id": 0.8,
+  "armor_type_id": 0.75,
+  "crew": 440.0,
+  "country": "ENG",
+  "class": "IC",
+  "year": 1874.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "IC - 装甲艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "14.70",
+  "naval_range": "3900.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

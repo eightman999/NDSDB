@@ -1,0 +1,40 @@
+{
+  "name": "船首楼型駆逐艦",
+  "id": "SSH_DD_1",
+  "weight": 792.25,
+  "length": 80.08,
+  "width": 7.92,
+  "power": 11825.0,
+  "speed": 28.75,
+  "range": 3872.42,
+  "cruise_speed": 14.25,
+  "fuel_capacity": 208.75,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 1.0,
+  "crew": 77.5,
+  "country": "NULL",
+  "class": "DD_1",
+  "year": 1907.0,
+  "archetype": "DE - 二等駆逐艦",
+  "type": "D - 水雷駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "28.75",
+  "naval_range": "3872.42",
+  "hull_structure": "中世型",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

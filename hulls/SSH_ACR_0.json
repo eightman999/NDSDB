@@ -1,0 +1,40 @@
+{
+  "name": "装甲巡洋艦 I",
+  "id": "SSH_ACR_0",
+  "weight": 5930.5,
+  "length": 101.62,
+  "width": 15.67,
+  "power": 8646.5,
+  "speed": 17.33,
+  "range": 7050.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 748.0,
+  "armor_max": 198.2,
+  "armor_min": 134.7,
+  "hull_structure_id": 1.0,
+  "armor_type_id": 0.93,
+  "crew": 383.5,
+  "country": "NULL",
+  "class": "ACR",
+  "year": 1892.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "ACR - 装甲巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "17.33",
+  "naval_range": "7050.00",
+  "hull_structure": "中世型",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

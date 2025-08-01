@@ -1,0 +1,40 @@
+{
+  "name": "Möwe型",
+  "id": "USH_GER_AC_Mowe_class",
+  "weight": 9800.0,
+  "length": 123.7,
+  "width": 7.2,
+  "power": 3200.0,
+  "speed": 13.0,
+  "range": 4400.0,
+  "cruise_speed": 13.0,
+  "fuel_capacity": 0,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.3,
+  "armor_type_id": 1.0,
+  "crew": 235.0,
+  "country": "GER",
+  "class": "MC",
+  "year": 1914.0,
+  "archetype": "SAV - 二等補助艦",
+  "type": "AC - 特設巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "13.00",
+  "naval_range": "4400.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "装甲なし",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": "-",
+    "SSA": "-",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

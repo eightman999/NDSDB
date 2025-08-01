@@ -1,0 +1,40 @@
+{
+  "name": "Emanuele Filiberto Duca d'Aosta級",
+  "id": "USH_ITA_CL_Emanuele Filiberto Duca d'Aosta_class",
+  "weight": 10834.0,
+  "length": 186.9,
+  "width": 17.5,
+  "power": 127924.0,
+  "speed": 37.35,
+  "range": 3900.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 1680.0,
+  "armor_max": 105.0,
+  "armor_min": 75.0,
+  "hull_structure_id": 2.0,
+  "armor_type_id": 1.9,
+  "crew": 694.0,
+  "country": "ITA",
+  "class": "CL_2",
+  "year": 1935.0,
+  "archetype": "CL - 二等巡洋艦",
+  "type": "CL - 軽巡洋艦/二等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "37.35",
+  "naval_range": "3900.00",
+  "hull_structure": "近代型",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

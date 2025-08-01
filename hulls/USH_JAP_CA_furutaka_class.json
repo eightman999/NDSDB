@@ -1,0 +1,40 @@
+{
+  "name": "古鷹型",
+  "id": "USH_JAP_CA_furutaka_class",
+  "weight": 10507.0,
+  "length": 185.17,
+  "width": 16.93,
+  "power": 103390.0,
+  "speed": 32.95,
+  "range": 7000.0,
+  "cruise_speed": 14.0,
+  "fuel_capacity": 1858.0,
+  "armor_max": 76.0,
+  "armor_min": 76.0,
+  "hull_structure_id": 1.7,
+  "armor_type_id": 1.6,
+  "crew": 639.0,
+  "country": "JAP",
+  "class": "CA_1",
+  "year": 1926.0,
+  "archetype": "CA - 一等巡洋艦",
+  "type": "CA - 重巡・一等巡洋艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "32.95",
+  "naval_range": "7000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": "=",
+    "PLA": " ",
+    "SLA": "="
+  }
+}

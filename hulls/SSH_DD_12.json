@@ -1,0 +1,40 @@
+{
+  "name": "戦後型駆逐艦 II",
+  "id": "SSH_DD_12",
+  "weight": 2282.83,
+  "length": 115.09,
+  "width": 11.99,
+  "power": 33750.0,
+  "speed": 32.42,
+  "range": 5149.5,
+  "cruise_speed": 17.0,
+  "fuel_capacity": 705.65,
+  "armor_max": 0.0,
+  "armor_min": 0.0,
+  "hull_structure_id": 1.48,
+  "armor_type_id": 1.29,
+  "crew": 267.33,
+  "country": "NULL",
+  "class": "DD_12",
+  "year": 1956.0,
+  "archetype": "DD - 一等駆逐艦",
+  "type": "DD - 駆逐艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "32.42",
+  "naval_range": "5149.50",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": "-",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}

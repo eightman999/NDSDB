@@ -1,0 +1,40 @@
+{
+  "name": "Regina Margherita級",
+  "id": "USH_ITA_B_Regina Margherita_class",
+  "weight": 14574.0,
+  "length": 138.6,
+  "width": 23.8,
+  "power": 20000.0,
+  "speed": 20.0,
+  "range": 10000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2276.0,
+  "armor_max": 150.0,
+  "armor_min": 50.0,
+  "hull_structure_id": 1.2,
+  "armor_type_id": 2.0,
+  "crew": 848.5,
+  "country": "ITA",
+  "class": "SDBC",
+  "year": 1904.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "B - 前弩級戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "20.00",
+  "naval_range": "10000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "-",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

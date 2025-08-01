@@ -1,0 +1,40 @@
+{
+  "name": "Nassau級",
+  "id": "USH_GER_BB_Nassau_class",
+  "weight": 21000.0,
+  "length": 137.7,
+  "width": 26.9,
+  "power": 26244.0,
+  "speed": 19.5,
+  "range": 8000.0,
+  "cruise_speed": 10.0,
+  "fuel_capacity": 2850.0,
+  "armor_max": 300.0,
+  "armor_min": 80.0,
+  "hull_structure_id": 1.4,
+  "armor_type_id": 1.6,
+  "crew": 1000.0,
+  "country": "GER",
+  "class": "DBB",
+  "year": 1909.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "19.50",
+  "naval_range": "8000.00",
+  "hull_structure": "ミディアム",
+  "armor_type": "標準装甲",
+  "slots": {
+    "PA": " ",
+    "SA": "=",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": "-",
+    "SLA": "-"
+  }
+}

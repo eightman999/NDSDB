@@ -1,0 +1,40 @@
+{
+  "name": "WWII型戦艦_I",
+  "id": "SSH_BB_1",
+  "weight": 42613.4,
+  "length": 221.41,
+  "width": 32.43,
+  "power": 99400.0,
+  "speed": 26.96,
+  "range": 12167.2,
+  "cruise_speed": 16.0,
+  "fuel_capacity": 5244.0,
+  "armor_max": 325.4,
+  "armor_min": 304.2,
+  "hull_structure_id": 1.8,
+  "armor_type_id": 2.0,
+  "crew": 1812.8,
+  "country": "NULL",
+  "class": "BB_2",
+  "year": 1934.0,
+  "archetype": "BB - 一等戦艦",
+  "type": "BB - 戦艦",
+  "main_engine_id": "",
+  "auxiliary_engine_ids": [],
+  "engine_count": {
+    "main": 1,
+    "auxiliary": 0
+  },
+  "max_speed": "26.96",
+  "naval_range": "12167.20",
+  "hull_structure": "ミディアム",
+  "armor_type": "複合装甲",
+  "slots": {
+    "PA": " ",
+    "SA": " ",
+    "PSA": " ",
+    "SSA": " ",
+    "PLA": " ",
+    "SLA": "-"
+  }
+}
