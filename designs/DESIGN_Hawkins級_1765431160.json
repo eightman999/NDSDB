@@ -1,0 +1,79 @@
+@config.design
+{
+  "design_name": "Hawkins級",
+  "ship_type": "CA - 一等巡洋艦",
+  "hull_id": "USH_ENG_CA_Hawkins_class",
+  "hull_name": "Hawkins級",
+  "main_slots": {
+    "PA": "15.2 cm",
+    "PSA": "15.2 cm",
+    "SSA": "SMTP017_USH_ENG_CA_Hawkins_class",
+    "PLA": "1.4 kg"
+  },
+  "slot_categories": {
+    "PA": [
+      "small_caliber_gun",
+      "medium_caliber_gun"
+    ],
+    "SA": [
+      "small_caliber_gun",
+      "seaplane"
+    ],
+    "PSA": [
+      "medium_caliber_gun"
+    ],
+    "SSA": [
+      "anti_aircraft_gun",
+      "torpedo"
+    ],
+    "PLA": [
+      "anti_aircraft_gun",
+      "anti_aircraft_missile"
+    ],
+    "SLA": [
+      "anti_aircraft_gun"
+    ]
+  },
+  "internal_slots": [
+    {
+      "slot_id": "INT1",
+      "slot_number": 1,
+      "categories": [
+        "sonar",
+        "large_sonar",
+        "small_radar",
+        "large_radar"
+      ],
+      "equipment_id": null
+    },
+    {
+      "slot_id": "INT2",
+      "slot_number": 2,
+      "categories": [
+        "sonar",
+        "large_sonar"
+      ],
+      "equipment_id": null
+    },
+    {
+      "slot_id": "INT3",
+      "slot_number": 3,
+      "categories": [
+        "fire_control_system"
+      ],
+      "equipment_id": null
+    },
+    {
+      "slot_id": "INT4",
+      "slot_number": 4,
+      "categories": [
+        "main_engine",
+        "auxiliary_engine"
+      ],
+      "equipment_id": null
+    }
+  ],
+  "year": 1915.0,
+  "country": "ENG",
+  "id": "DESIGN_Hawkins級_1765431160"
+}

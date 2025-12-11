@@ -1,0 +1,2 @@
+ID,名前,重量,人員,開発年,開発国,必要資源_鉄,必要資源_クロム,必要資源_アルミ,必要資源_タングステン,必要資源_ゴム,explosive_weight_kg,max_range_m,speed_kts,diameter_cm,equipment_type
+SMTP017_USH_ENG_CA_Hawkins_class,21 inch Mark IV*,1454,0,1912,ENG,0,0,0,0,0,234.0,8700,35.0,53.3,魚雷
