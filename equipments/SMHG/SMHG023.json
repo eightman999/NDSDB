@@ -1,21 +1,12 @@
 {
   "equipment_type": "大口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "BL 12-inch Mk XI – XII naval gun",
-    "ID": "SMHG023",
-    "重量": 63000,
-    "人員": 16,
-    "開発年": 1908,
-    "開発国": "United Kingdom",
-=======
     "名前": "30.5 cm/45 (12\") K10 Škoda",
     "ID": "SMHG023",
     "重量": 783000,
     "人員": 0,
     "開発年": 1910,
     "開発国": "HUN",
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -23,18 +14,6 @@
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 386.0,
-    "initial_velocity_mps": 860.0,
-    "rounds_per_minute": 2,
-    "caliber_cm": 30.5,
-    "barrel_length": 50,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_kg": 450.0,
     "initial_velocity_mps": 800.0,
     "rounds_per_minute": 3.0,
@@ -45,4 +24,3 @@
     "turret_count": 1
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

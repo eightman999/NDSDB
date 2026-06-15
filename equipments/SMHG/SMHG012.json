@@ -1,21 +1,12 @@
 {
   "equipment_type": "大口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "BL 9.2-inch Mk I – VII naval gun",
-    "ID": "SMHG012",
-    "重量": 25000,
-    "人員": 12,
-    "開発年": 1880,
-    "開発国": "United Kingdom",
-=======
     "名前": "32 cm/35 (12.6\") Model 1880",
     "ID": "SMHG012",
     "重量": 48200,
     "人員": 257.0,
     "開発年": 1880,
     "開発国": "Spain",
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -23,18 +14,6 @@
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 172.0,
-    "initial_velocity_mps": 770.0,
-    "rounds_per_minute": 3,
-    "caliber_cm": 23.4,
-    "barrel_length": 40,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_kg": 400.0,
     "initial_velocity_mps": 620.0,
     "rounds_per_minute": 0.2,
@@ -45,4 +24,3 @@
     "turret_count": 1
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

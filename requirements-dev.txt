@@ -1,0 +1,4 @@
+# Development / test dependencies for NDSDB
+# 開発・テスト用の依存パッケージ
+pytest>=7.0
+PyYAML>=6.0

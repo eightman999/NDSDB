@@ -1,21 +1,12 @@
 {
   "equipment_type": "大口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "BL 14 inch gun Mk II",
-    "ID": "SMHG027",
-    "重量": 84000,
-    "人員": 18,
-    "開発年": 1913,
-    "開発国": "United Kingdom",
-=======
     "名前": "50口径406mm",
     "ID": "SMHG027",
     "重量": 1800000,
     "人員": 0,
     "開発年": 1910,
     "開発国": "USSR",
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -23,18 +14,6 @@
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 721.0,
-    "initial_velocity_mps": 760.0,
-    "rounds_per_minute": 2,
-    "caliber_cm": 35.6,
-    "barrel_length": 45,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_kg": 1108.0,
     "initial_velocity_mps": 830.0,
     "rounds_per_minute": 1.75,
@@ -45,4 +24,3 @@
     "turret_count": 1
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
