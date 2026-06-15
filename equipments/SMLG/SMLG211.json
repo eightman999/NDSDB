@@ -1,15 +1,6 @@
 {
   "equipment_type": "小口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "QF 4-inch naval gun Mk I–III",
-    "ID": "SMLG211",
-    "重量": 2500,
-    "人員": 6,
-    "開発年": 1896,
-    "開発国": "United Kingdom",
-    "必要資源_鉄": 0,
-=======
     "名前": "8.8 cm/45 (3.46\") KM41 (Triaxial turntable mounting Flak LM41)",
     "ID": "SMLG211",
     "重量": 4750.0,
@@ -17,25 +8,12 @@
     "開発年": 1941.0,
     "開発国": "GER",
     "必要資源_鉄": 1,
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 14.0,
-    "initial_velocity_mps": 720.0,
-    "rounds_per_minute": 8,
-    "caliber_cm": 10.2,
-    "barrel_length": 40,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_g": 0,
     "initial_velocity_mps": 790.0,
     "rounds_per_minute": 15.0,
@@ -48,4 +26,3 @@
     "caliber_cm": 8.8
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

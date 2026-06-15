@@ -1,15 +1,6 @@
 {
   "equipment_type": "小口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "Bofors 40 Mk4",
-    "ID": "SMLG204",
-    "重量": 2500,
-    "人員": 3,
-    "開発年": 2014,
-    "開発国": "Sweden",
-    "必要資源_鉄": 0,
-=======
     "名前": "4.5\"/45 (11.4 cm) QF Mark I, III and IV (Mark 5* Mod 1 Single Mount)",
     "ID": "SMLG204",
     "重量": 11290.0,
@@ -17,25 +8,12 @@
     "開発年": 1935.0,
     "開発国": "GBR",
     "必要資源_鉄": 1,
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 0.96,
-    "initial_velocity_mps": 1000.0,
-    "rounds_per_minute": 300,
-    "caliber_cm": 4.0,
-    "barrel_length": 70,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_g": 0,
     "initial_velocity_mps": 716.0,
     "rounds_per_minute": 14.0,
@@ -48,4 +26,3 @@
     "caliber_cm": 11.4
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

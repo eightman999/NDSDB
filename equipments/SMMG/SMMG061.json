@@ -1,21 +1,12 @@
 {
   "equipment_type": "中口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "QF 5.25-inch naval gun",
-    "ID": "SMMG061",
-    "重量": 40000,
-    "人員": 12,
-    "開発年": 1938,
-    "開発国": "United Kingdom",
-=======
     "名前": "23.8cm/35",
     "ID": "SMMG061",
     "重量": 45000.0,
     "人員": 0,
     "開発年": 1888,
     "開発国": "GER",
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_鉄": 0,
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
@@ -23,18 +14,6 @@
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 36.3,
-    "initial_velocity_mps": 792.0,
-    "rounds_per_minute": 7,
-    "caliber_cm": 13.4,
-    "barrel_length": 50,
-    "barrel_count": 1,
-    "max_elevation": "+70/-5 度",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_kg": 140.0,
     "initial_velocity_mps": 650.0,
     "rounds_per_minute": 2.0,
@@ -45,4 +24,3 @@
     "turret_count": 1
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)

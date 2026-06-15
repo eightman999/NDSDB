@@ -1,15 +1,6 @@
 {
   "equipment_type": "小口径砲",
   "common": {
-<<<<<<< HEAD
-    "名前": "QF 4-inch naval gun Mk XXIII",
-    "ID": "SMLG216",
-    "重量": 2300,
-    "人員": 7,
-    "開発年": 1950,
-    "開発国": "United Kingdom",
-    "必要資源_鉄": 0,
-=======
     "名前": "4\"/50 (10.2 cm) Marks 7, 8, 9 and 10 (Twin Mount Mark 14)",
     "ID": "SMLG216",
     "重量": 9560.0,
@@ -17,25 +8,12 @@
     "開発年": 1910.0,
     "開発国": "USA",
     "必要資源_鉄": 1,
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
     "必要資源_クロム": 0,
     "必要資源_アルミ": 0,
     "必要資源_タングステン": 0,
     "必要資源_ゴム": 0
   },
   "specific": {
-<<<<<<< HEAD
-    "shell_weight_kg": 16.0,
-    "initial_velocity_mps": 820.0,
-    "rounds_per_minute": 20,
-    "caliber_cm": 10.2,
-    "barrel_length": 45,
-    "barrel_count": 1,
-    "max_elevation": "",
-    "turret_count": 1
-  }
-}
-=======
     "shell_weight_g": 0,
     "initial_velocity_mps": 884.0,
     "rounds_per_minute": 8.0,
@@ -48,4 +26,3 @@
     "caliber_cm": 10.2
   }
 }
->>>>>>> c07760f (Naval Design System data update: 2025-07-17 22:58:14)
